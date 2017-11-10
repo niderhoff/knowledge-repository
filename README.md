@@ -10,7 +10,7 @@ awesome list of my own resources. everything I learned and where I learned it fr
  - [Web Development](#web-development)
  - [Improvement](#improvement)
  - [Data Science Meta](#data-science-meta)
- - [Go](#go]
+ - [Go](#go)
  
 ## General Programming
  - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
@@ -36,7 +36,7 @@ awesome list of my own resources. everything I learned and where I learned it fr
  ## Big Data
  
   - Hadoop
-      - [Hadoop - The Definitive Guide (O'Reilly)]()
+      - [Hadoop - The Definitive Guide (O'Reilly)](http://hadoopbook.com/)
       - [Hadoop starter kit](http://hadoopinrealworld.com/hadoopstarterkit/) - Free Hadoop Cluster (3 nodes)
       
  ## Machine Learning
