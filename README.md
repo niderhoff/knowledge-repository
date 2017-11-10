@@ -9,11 +9,16 @@ awesome list of my own resources. everything I learned and where I learned it fr
  - [Machine Learning](#machine-learning)
  - [Web Development](#web-development)
  - [Improvement](#improvement)
+ - [Data Science Meta](#data-science-meta)
+ - [Go](#go]
  
 ## General Programming
  - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
  - [Learn by example: Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing)
  - [Things every programmer should know](https://github.com/mr-mig/every-programmer-should-know)
+ - Components
+     - [What is a Lambda Function?](https://stackoverflow.com/questions/16501/what-is-a-lambda-function)
+ - [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon)
 
 ## Python
 
@@ -36,8 +41,13 @@ awesome list of my own resources. everything I learned and where I learned it fr
       
  ## Machine Learning
  
+  - MOOC
+      - [fast.ai](http://www.fast.ai/) - Practical Deep Learning for Coders
   - Logistic Regression
       - [Data Science Simplified Part 11: Logistic Regression](https://towardsdatascience.com/data-science-simplified-part-11-logistic-regression-5ae8d994bf0e)
+  - Neural networks
+      - [What is a CapsNet](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc)
+      - [Understanding Hinton's Capsule Networks](https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
       
  ## Web Development
  
@@ -61,6 +71,13 @@ awesome list of my own resources. everything I learned and where I learned it fr
   - [Fullstack Web-Developer Path](https://github.com/shovanch/fullstack-web-developer-path)
   - [Frontend Developer Beginner Resources](https://github.com/shovanch/fullstack-web-developer-path)
   - [Front-End Handbook 2017](https://github.com/FrontendMasters/front-end-handbook-2017)
+  
+ ## Data Science Meta
+  - [You might want to hire a Data Engineer instead of a Data Scientist](https://www.marcel.is/de/)
+ 
+  
+ ## Go
+  - [Learn Go by porting a medium-sized web backend from Python](http://benhoyt.com/writings/learning-go/)
   
  
  
