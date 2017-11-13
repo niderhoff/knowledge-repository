@@ -26,6 +26,8 @@ awesome list of my own resources. everything I learned and where I learned it fr
      - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
  - TensorFlow
      - [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
+ - Keras
+     - [Deep Learning with Python (Francois Chollet)](https://www.manning.com/books/deep-learning-with-python) - [Code](https://github.com/fchollet/deep-learning-with-python-notebooks)
      
 ## Java
 
