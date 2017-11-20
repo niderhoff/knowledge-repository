@@ -28,6 +28,7 @@ awesome list of my own resources. everything I learned and where I learned it fr
      - [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
  - Keras
      - [Deep Learning with Python (Francois Chollet)](https://www.manning.com/books/deep-learning-with-python) - [Code](https://github.com/fchollet/deep-learning-with-python-notebooks)
+     - [Sciikit-learn API](https://keras.io/scikit-learn-api/)
      
 ## Java
 
@@ -73,6 +74,7 @@ awesome list of my own resources. everything I learned and where I learned it fr
   - [Fullstack Web-Developer Path](https://github.com/shovanch/fullstack-web-developer-path)
   - [Frontend Developer Beginner Resources](https://github.com/shovanch/fullstack-web-developer-path)
   - [Front-End Handbook 2017](https://github.com/FrontendMasters/front-end-handbook-2017)
+  - [Path to a free self-taught education in Data Science!](https://github.com/ossu/data-science)
   
  ## Data Science Meta
   - [You might want to hire a Data Engineer instead of a Data Scientist](https://www.marcel.is/de/)
