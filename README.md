@@ -51,6 +51,8 @@ awesome list of my own resources. everything I learned and where I learned it fr
   - Neural networks
       - [What is a CapsNet](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc)
       - [Understanding Hinton's Capsule Networks](https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
+  - Unsupervised Learning
+      - [Categorical and numeric data](https://www.reddit.com/r/datascience/comments/7e4o9s/what_are_good_approaches_for_unsupervised/)
       
  ## Web Development
  
