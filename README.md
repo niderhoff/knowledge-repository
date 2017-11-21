@@ -24,6 +24,7 @@ awesome list of my own resources. everything I learned and where I learned it fr
 
  - Pandas, scikit-learn, numpy
      - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+     - [Missing Data/Imputation in pandas](https://pandas.pydata.org/pandas-docs/stable/missing_data.html)
  - TensorFlow
      - [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
  - Keras
