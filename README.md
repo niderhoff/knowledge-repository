@@ -2,6 +2,7 @@
 awesome list of my own resources. everything I learned and where I learned it from.
 
 ## Contents
+ - [Meta Sites](#meta-sites)
  - [General Programming](#general-programming)
  - [Python](#python)
  - [Java](#java)
@@ -11,6 +12,10 @@ awesome list of my own resources. everything I learned and where I learned it fr
  - [Improvement](#improvement)
  - [Data Science Meta](#data-science-meta)
  - [Go](#go)
+ 
+## Meta Sites
+ - [Learnanything](https://learn-anything.xyz/)
+ - [learnXinYminutes](https://learnxinyminutes.com/)
  
 ## General Programming
  - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
