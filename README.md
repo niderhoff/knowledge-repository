@@ -1,5 +1,5 @@
-# awesome-nid
-awesome list of my own resources. everything I learned and where I learned it from.
+# niid-learning
+list of my own resources for learning. everything I learned and where I learned it from.
 
 ## Contents
  - [Meta Sites](#meta-sites)
@@ -52,9 +52,11 @@ awesome list of my own resources. everything I learned and where I learned it fr
  
   - MOOC
       - [fast.ai](http://www.fast.ai/) - Practical Deep Learning for Coders
+      - [Google ML Crash Crouse](https://developers.google.com/machine-learning/crash-course/) - very crash course
   - Logistic Regression
       - [Data Science Simplified Part 11: Logistic Regression](https://towardsdatascience.com/data-science-simplified-part-11-logistic-regression-5ae8d994bf0e)
   - Neural networks
+      - [deeplearningbook](http://www.deeplearningbook.org/) THE book by Bengio/GoodFellow/Courville. From NN to autoencoders..
       - [What is a CapsNet](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc)
       - [Understanding Hinton's Capsule Networks](https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
   - Unsupervised Learning
