@@ -14,6 +14,8 @@ knowledge repository with learning resources, examples, links for various data s
     - [Machine Learning Theory](#machine-learning-theory)
   - [Big Data](#big-data)
   - [Web Development](#web-development)
+  - [Python](#python)
+  - [JavaScript](#javascript)
   - [Java](#java)
   - [Go](#go)
   - [Unread](#unread)
@@ -29,6 +31,8 @@ knowledge repository with learning resources, examples, links for various data s
 - Components
   - [What is a Lambda Function?](https://stackoverflow.com/questions/16501/what-is-a-lambda-function)
 - [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon)
+- CI/CD
+  - [I am a mediocre Developer](https://dev.to/sobolevn/i-am-a-mediocre-developer--30hn)
 
 ## Meta-Lists
 
@@ -50,9 +54,13 @@ knowledge repository with learning resources, examples, links for various data s
   - [Missing Data/Imputation in pandas](https://pandas.pydata.org/pandas-docs/stable/missing_data.html)
 - TensorFlow
   - [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
+  - Object Detection
+    - [Hand Detector (Egohands Dataset)](https://towardsdatascience.com/how-to-build-a-real-time-hand-detector-using-neural-networks-ssd-on-tensorflow-d6bac0e4b2ce) - [Code](https://github.com/victordibia/handtracking)
 - Keras
   - [Deep Learning with Python (Francois Chollet)](https://www.manning.com/books/deep-learning-with-python) - [Code](https://github.com/fchollet/deep-learning-with-python-notebooks)
   - [Sciikit-learn API](https://keras.io/scikit-learn-api/)
+- XGDBoost
+  - [Introduction to Toosted Trees](http://xgboost.readthedocs.io/en/latest/model.html)
 
 ### Python for Data Science (by Topic)
 
@@ -61,17 +69,25 @@ knowledge repository with learning resources, examples, links for various data s
 
 ### Machine Learning Theory
 
-- General Courses
+- General
   - [fast.ai](http://www.fast.ai/) - Practical Deep Learning for Coders
   - [Google ML Crash Crouse](https://developers.google.com/machine-learning/crash-course/) - very crash course
+  - [AI and Deep Learning: 2017 in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/)
 - Logistic Regression
   - [Data Science Simplified Part 11: Logistic Regression](https://towardsdatascience.com/data-science-simplified-part-11-logistic-regression-5ae8d994bf0e)
 - Neural networks
   - [deeplearningbook](http://www.deeplearningbook.org/) THE book by Bengio/GoodFellow/Courville. From NN to autoencoders..
   - [What is a CapsNet](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc)
   - [Understanding Hinton's Capsule Networks](https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
+  - Generative Adversarial Networks
+    - [deeplearning4j Introduction](https://getpocket.com/a/read/1994338110)
 - Unsupervised Learning
   - [Categorical and numeric data](https://www.reddit.com/r/datascience/comments/7e4o9s/what_are_good_approaches_for_unsupervised/)
+- NLP
+  - [How to Solve 90% of NLP Problems: A Step by Step Guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
+  - [EFF: AI Progress Metrics](https://www.eff.org/ai/metrics)
+- Meta-Learning
+  - [Unsupervised Meta-Learning for Few Shot Classification](https://arxiv.org/abs/1803.00676)
 
 ## Big Data
 
@@ -81,6 +97,8 @@ knowledge repository with learning resources, examples, links for various data s
 
 ## Web Development
 
+- Browser Support
+  - [caniuse.com](https://caniuse.com/#search=let)
 - CSS
   - [BEM](https://smacss.com/book/) - Block Element Modifier Convention
   - [SMACSS](https://smacss.com/book/) - Scalable and Modular Architecture for CSS Convention
@@ -93,6 +111,19 @@ knowledge repository with learning resources, examples, links for various data s
   - [Dribbble](https://dribbble.com/)
   - [Behance](https://www.behance.net/)
   - [awesome-inspire](https://github.com/NoahBuscher/Inspire)
+
+## Python
+
+- [Using Config files](https://martin-thoma.com/configuration-files-in-python/) - YAML, JSON, etc.
+- Telethon (Telegram API Wrapper)
+  - [Telethon API Documentation](https://lonamiwebs.github.io/Telethon/)
+  - [Telegram API Introduction](https://towardsdatascience.com/introduction-to-the-telegram-api-b0cd220dbed2)
+  - [How to Create and Deploy a Telegram Bot](https://djangostars.com/blog/how-to-create-and-deploy-a-telegram-bot/)
+
+## JavaScript
+
+- d3.js
+  - [Hitchhiker's Guide to d3.js](https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a)
 
 ## Java
 
