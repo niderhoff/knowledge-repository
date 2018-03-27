@@ -9,9 +9,11 @@ knowledge repository with learning resources, examples, links for various data s
   - [General Programming](#general-programming)
   - [Meta-Lists](#meta-lists)
   - [Data Science](#data-science)
+  - [Blogs / personal websites](#blogs-personal-websites)
+    - [Machine Learning Theory](#machine-learning-theory)
     - [Python for Data Science (by Framework)](#python-for-data-science-by-framework)
     - [Python for Data Science (by Topic)](#python-for-data-science-by-topic)
-    - [Machine Learning Theory](#machine-learning-theory)
+    - [R](#r)
   - [Big Data](#big-data)
   - [Web Development](#web-development)
   - [Python](#python)
@@ -46,19 +48,79 @@ knowledge repository with learning resources, examples, links for various data s
 ## Data Science
 
 - [You might want to hire a Data Engineer instead of a Data Scientist](https://www.marcel.is/de/)
+- [7 Steps to mastering SQL for Data Science](http://www.kdnuggets.com/2016/06/seven-steps-mastering-sql-data-science.html)
+- [AI and Deep Learning: 2017 in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/)
+- [Datacamp](https://www.datacamp.com/community/)
+- [How to get into the Top15 of Kaggle with Python](https://www.dataquest.io/blog/kaggle-tutorial/)
+
+## Blogs / personal websites
+
+- [Sebastian Raschka](https://sebastianraschka.com/)
+- [Karpathy Blog](http://karpathy.github.io/2015/10/25/selfie/)
+- [Francois Chollet (keras) Blog](https://blog.keras.io/index.html)
+- [Dataquest](https://www.dataquest.io/blog/)
+
+### Machine Learning Theory
+
+- General
+  - [An Overiew of Gradient Descent](http://sebastianruder.com/optimizing-gradient-descent/)
+- MOOC
+  - [fast.ai](http://www.fast.ai/) - Practical Deep Learning for Coders
+  - [Google ML Crash Crouse](https://developers.google.com/machine-learning/crash-course/) - very crash course
+  - [Hardvard CS109: Data Science](http://cs109.github.io/2015/)
+  - [Stanford CS221: AI](http://web.stanford.edu/class/cs221/)
+  - [Stanford CS224d: Deep Learning for NLP](http://cs224d.stanford.edu/)
+  - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+  - [Machine Learning Mastery](https://machinelearningmastery.com/)
+  - [Deep Learning with Google (Udacity)](https://de.udacity.com/course/deep-learning--ud730)
+- Logistic Regression
+  - [Data Science Simplified Part 11: Logistic Regression](https://towardsdatascience.com/data-science-simplified-part-11-logistic-regression-5ae8d994bf0e)
+- Neural networks
+  - [deeplearningbook](http://www.deeplearningbook.org/) THE book by Bengio/GoodFellow/Courville. From NN to autoencoders..
+  - [Deep Learning in Neural Networks: An Overview (paywall)](https://www.sciencedirect.com/science/article/pii/S0893608014002135)
+  - CapsNet
+    - [What is a CapsNet](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc)
+    - [Understanding Hinton's Capsule Networks](https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
+  - CNN
+    - [Beginner's Guide to Understanding CNN](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
+    - [100 Best CNN Videos](http://meta-guide.com/videography/100-best-convolutional-neural-network-videos)
+  - Generative Adversarial Networks
+    - [deeplearning4j Introduction](https://getpocket.com/a/read/1994338110)
+- Unsupervised Learning
+  - [Categorical and numeric data](https://www.reddit.com/r/datascience/comments/7e4o9s/what_are_good_approaches_for_unsupervised/)
+- NLP
+  - [How to Solve 90% of NLP Problems: A Step by Step Guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
+  - [EFF: AI Progress Metrics](https://www.eff.org/ai/metrics)
+- Meta-Learning
+  - [Unsupervised Meta-Learning for Few Shot Classification](https://arxiv.org/abs/1803.00676)
+- Imbalanced Classes
+  - [Dealing with Imbalanced Data: Undersampling, Oversampling and Proper CV](https://www.marcoaltini.com/blog/dealing-with-imbalanced-data-undersampling-oversampling-and-proper-cross-validation)
 
 ### Python for Data Science (by Framework)
 
 - Pandas, scikit-learn
   - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
   - [Missing Data/Imputation in pandas](https://pandas.pydata.org/pandas-docs/stable/missing_data.html)
+  - [Cross-Validation (sklearn)](http://scikit-learn.org/stable/modules/cross_validation.html)
 - TensorFlow
   - [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
+  - [TensorFlow for Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/)
   - Object Detection
     - [Hand Detector (Egohands Dataset)](https://towardsdatascience.com/how-to-build-a-real-time-hand-detector-using-neural-networks-ssd-on-tensorflow-d6bac0e4b2ce) - [Code](https://github.com/victordibia/handtracking)
-- Keras
+  - NLP
+    - [CNN for Text Classification](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/#more-452)
+    - [word2vec (TensorFlow Tutorial)](https://www.tensorflow.org/tutorials/word2vec)
+    - [CNN for Text Classifcation (Kim 2014)](https://github.com/dennybritz/cnn-text-classification-tf)
+- [Keras](http://keras.io/)
   - [Deep Learning with Python (Francois Chollet)](https://www.manning.com/books/deep-learning-with-python) - [Code](https://github.com/fchollet/deep-learning-with-python-notebooks)
-  - [Sciikit-learn API](https://keras.io/scikit-learn-api/)
+  - [With Sciikit-learn API](https://keras.io/scikit-learn-api/)
+  - [Examples](https://github.com/keras-team/keras/tree/master/examples)
+  - Advanced
+    - [Combining Different Filter Lengths in 1D-Convolutional Layers](https://github.com/keras-team/keras/issues/1023)
+    - [Dynamic k-max Pooling](https://github.com/keras-team/keras/issues/373)
+    - [How to Implement non-static CNN - Kim (2014)](https://github.com/keras-team/keras/issues/1515), [2](https://github.com/keras-team/keras/pull/1994)
+    - [Extract Feature Weights](https://github.com/keras-team/keras/issues/12)
+    - [2D vs 1D Convolutions for Text](https://github.com/keras-team/keras/issues/233)
 - XGDBoost
   - [Introduction to Toosted Trees](http://xgboost.readthedocs.io/en/latest/model.html)
 
@@ -69,27 +131,9 @@ knowledge repository with learning resources, examples, links for various data s
 - Speech Recognition
   - [Speech Recognition in Python](https://realpython.com/python-speech-recognition/)
 
-### Machine Learning Theory
+### R
 
-- General
-  - [fast.ai](http://www.fast.ai/) - Practical Deep Learning for Coders
-  - [Google ML Crash Crouse](https://developers.google.com/machine-learning/crash-course/) - very crash course
-  - [AI and Deep Learning: 2017 in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/)
-- Logistic Regression
-  - [Data Science Simplified Part 11: Logistic Regression](https://towardsdatascience.com/data-science-simplified-part-11-logistic-regression-5ae8d994bf0e)
-- Neural networks
-  - [deeplearningbook](http://www.deeplearningbook.org/) THE book by Bengio/GoodFellow/Courville. From NN to autoencoders..
-  - [What is a CapsNet](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc)
-  - [Understanding Hinton's Capsule Networks](https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
-  - Generative Adversarial Networks
-    - [deeplearning4j Introduction](https://getpocket.com/a/read/1994338110)
-- Unsupervised Learning
-  - [Categorical and numeric data](https://www.reddit.com/r/datascience/comments/7e4o9s/what_are_good_approaches_for_unsupervised/)
-- NLP
-  - [How to Solve 90% of NLP Problems: A Step by Step Guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
-  - [EFF: AI Progress Metrics](https://www.eff.org/ai/metrics)
-- Meta-Learning
-  - [Unsupervised Meta-Learning for Few Shot Classification](https://arxiv.org/abs/1803.00676)
+- [Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
 
 ## Big Data
 
@@ -99,6 +143,11 @@ knowledge repository with learning resources, examples, links for various data s
 
 ## Web Development
 
+- [Chrome Dev Tools: Overview](https://developer.chrome.com/devtools)
+- [MDN](https://developer.mozilla.org/en-US/)
+- [QuickDBD](https://www.quickdatabasediagrams.com/)
+- [JSFiddle](https://jsfiddle.net/)
+- [What the Heck is the Event Loop Anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - Browser Support
   - [caniuse.com](https://caniuse.com/#search=let)
 - CSS
