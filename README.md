@@ -49,7 +49,7 @@ knowledge repository with learning resources, examples, links for various data s
 
 ### Python for Data Science (by Framework)
 
-- Pandas, scikit-learn, numpy
+- Pandas, scikit-learn
   - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
   - [Missing Data/Imputation in pandas](https://pandas.pydata.org/pandas-docs/stable/missing_data.html)
 - TensorFlow
@@ -64,6 +64,8 @@ knowledge repository with learning resources, examples, links for various data s
 
 ### Python for Data Science (by Topic)
 
+- NLP
+  - [Topic Modeling with Gensim](https://www.udemy.com/understand-javascript/)
 - Speech Recognition
   - [Speech Recognition in Python](https://realpython.com/python-speech-recognition/)
 
