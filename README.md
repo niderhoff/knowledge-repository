@@ -64,6 +64,8 @@ knowledge repository with learning resources, examples, links for various data s
 
 - General
   - [An Overiew of Gradient Descent](http://sebastianruder.com/optimizing-gradient-descent/)
+  - [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
+  - [Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 - MOOC
   - [fast.ai](http://www.fast.ai/) - Practical Deep Learning for Coders
   - [Google ML Crash Crouse](https://developers.google.com/machine-learning/crash-course/) - very crash course
@@ -170,6 +172,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [Telethon API Documentation](https://lonamiwebs.github.io/Telethon/)
   - [Telegram API Introduction](https://towardsdatascience.com/introduction-to-the-telegram-api-b0cd220dbed2)
   - [How to Create and Deploy a Telegram Bot](https://djangostars.com/blog/how-to-create-and-deploy-a-telegram-bot/)
+- [Number Formatting](https://mkaz.blog/code/python-string-format-cookbook/)
 
 ## JavaScript
 
