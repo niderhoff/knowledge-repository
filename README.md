@@ -123,6 +123,7 @@ knowledge repository with learning resources, examples, links for various data s
     - [How to Implement non-static CNN - Kim (2014)](https://github.com/keras-team/keras/issues/1515), [2](https://github.com/keras-team/keras/pull/1994)
     - [Extract Feature Weights](https://github.com/keras-team/keras/issues/12)
     - [2D vs 1D Convolutions for Text](https://github.com/keras-team/keras/issues/233)
+    - [Incorporating Word Vectors rather than using an Embedding class](https://github.com/keras-team/keras/issues/853)
 - xgboost
   - [Introduction to Boosted Trees](http://xgboost.readthedocs.io/en/latest/model.html)
   - [Bagging using xgboost](https://github.com/daxiongshu/tradeshift-text-classification)
