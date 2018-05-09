@@ -132,6 +132,7 @@ knowledge repository with learning resources, examples, links for various data s
 
 - NLP
   - [Topic Modeling with Gensim](https://www.udemy.com/understand-javascript/)
+  - [Text Summarization](https://github.com/chakki-works/sumeval) - sumeval
 - Speech Recognition
   - [Speech Recognition in Python](https://realpython.com/python-speech-recognition/)
 
