@@ -9,7 +9,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [General Programming](#general-programming)
   - [Meta-Lists](#meta-lists)
   - [Data Science](#data-science)
-    - [Blogs / personal websites](#blogs-personal-websites)
+    - [Blogs / personal websites](#blogs---personal-websites)
     - [Machine Learning Theory](#machine-learning-theory)
     - [Python for Data Science (by Framework)](#python-for-data-science-by-framework)
     - [Python for Data Science (by Topic)](#python-for-data-science-by-topic)
@@ -133,6 +133,7 @@ knowledge repository with learning resources, examples, links for various data s
 - NLP
   - [Topic Modeling with Gensim](https://www.udemy.com/understand-javascript/)
   - [Text Summarization](https://github.com/chakki-works/sumeval) - sumeval
+  - [State of the art text classification with universal language models](http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html)
 - Speech Recognition
   - [Speech Recognition in Python](https://realpython.com/python-speech-recognition/)
 
