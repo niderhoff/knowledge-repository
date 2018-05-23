@@ -9,7 +9,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [General Programming](#general-programming)
   - [Meta-Lists](#meta-lists)
   - [Data Science](#data-science)
-    - [Blogs / personal websites](#blogs-personal-websites)
+    - [Blogs / personal websites](#blogs---personal-websites)
     - [Machine Learning Theory](#machine-learning-theory)
     - [Python for Data Science (by Framework)](#python-for-data-science-by-framework)
     - [Python for Data Science (by Topic)](#python-for-data-science-by-topic)
@@ -158,6 +158,7 @@ knowledge repository with learning resources, examples, links for various data s
 - CSS
   - [BEM](https://smacss.com/book/) - Block Element Modifier Convention
   - [SMACSS](https://smacss.com/book/) - Scalable and Modular Architecture for CSS Convention
+  - [css-grid](https://drafts.csswg.org/css-grid/) - css grid specification
 - UXD (User Experience Design) - [What is User Experience Design?](https://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/) - Overview, Tools, and Resources
   - [Usability 101](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)
 - Frameworks
