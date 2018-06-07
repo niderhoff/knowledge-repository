@@ -18,8 +18,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [Web Development](#web-development)
   - [Python](#python)
   - [JavaScript](#javascript)
-  - [Java](#java)
-  - [Go](#go)
+  - [Others](#others)
   - [Unread](#unread)
   - [Read Archive](#read-archive)
 
