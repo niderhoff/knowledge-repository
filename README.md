@@ -30,9 +30,12 @@ knowledge repository with learning resources, examples, links for various data s
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [Learn by example: Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing)
 - [Things every programmer should know](https://github.com/mr-mig/every-programmer-should-know)
+- [Naming Conventions](https://www.wikiwand.com/en/Naming_convention_(programming))
 - Components
   - [What is a Lambda Function?](https://stackoverflow.com/questions/16501/what-is-a-lambda-function)
 - [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon)
+- Git
+  - [Interactive Tutorial](https://try.github.io/)
 - CI/CD
   - [I am a mediocre Developer](https://dev.to/sobolevn/i-am-a-mediocre-developer--30hn)
 
@@ -66,6 +69,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [An Overiew of Gradient Descent](http://sebastianruder.com/optimizing-gradient-descent/)
   - [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
   - [Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+  - [Precision and Recall](https://www.wikiwand.com/en/Precision_and_recall)
 - MOOC
   - [fast.ai](http://www.fast.ai/) - Practical Deep Learning for Coders
   - [Google ML Crash Crouse](https://developers.google.com/machine-learning/crash-course/) - very crash course
@@ -177,7 +181,12 @@ knowledge repository with learning resources, examples, links for various data s
 
 ## Python
 
+- Courses
+  - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+  - [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
+  - [Object Oriented Programming](https://python.swaroopch.com/oop.html)
 - [Using Config files](https://martin-thoma.com/configuration-files-in-python/) - YAML, JSON, etc.
+- [Example Google Style Python Docstrings](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
 - Telethon (Telegram API Wrapper)
   - [Telethon API Documentation](https://lonamiwebs.github.io/Telethon/)
   - [Telegram API Introduction](https://towardsdatascience.com/introduction-to-the-telegram-api-b0cd220dbed2)
@@ -189,15 +198,18 @@ knowledge repository with learning resources, examples, links for various data s
 - d3.js
   - [Hitchhiker's Guide to d3.js](https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a)
 
-## Java
+## Others
 
-- [Awesome Java](https://github.com/akullpp/awesome-java)
-- Basics, OOP
+- C
+  - [Learn C the Hard Way](https://learncodethehardway.org/c/)
+- Go
+  - [Learn Go by porting a medium-sized web backend from Python](http://benhoyt.com/writings/learning-go/)
+- Haskell
+  - [Learn You a Haskell for Great Good](http://learnyouahaskell.com/)
+  - [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
+- Java
+  - [Awesome Java](https://github.com/akullpp/awesome-java)
   - [Helsinki MOOC](http://mooc.fi/courses/2013/programming-part-1/)
-
-## Go
-
-- [Learn Go by porting a medium-sized web backend from Python](http://benhoyt.com/writings/learning-go/)
 
 ## Unread
 
