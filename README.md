@@ -130,6 +130,9 @@ knowledge repository with learning resources, examples, links for various data s
 
 ### Python for Data Science (by Topic)
 
+- Image Recognition
+  - OCR
+    - [OCR using tesseract and opencv](https://www.learnopencv.com/deep-learning-based-text-recognition-ocr-using-tesseract-and-opencv/)
 - NLP
   - [Topic Modeling with Gensim](https://www.udemy.com/understand-javascript/)
   - [Text Summarization](https://github.com/chakki-works/sumeval) - sumeval
