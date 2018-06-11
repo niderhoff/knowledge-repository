@@ -134,6 +134,8 @@ knowledge repository with learning resources, examples, links for various data s
 ### Python for Data Science (by Topic)
 
 - Image Recognition
+  - Classification
+    - [Multi-Label Classification using SmallerVGGNet and Keras](https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras)
   - OCR
     - [OCR using tesseract and opencv](https://www.learnopencv.com/deep-learning-based-text-recognition-ocr-using-tesseract-and-opencv/)
 - NLP
