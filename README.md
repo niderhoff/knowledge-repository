@@ -127,6 +127,7 @@ knowledge repository with learning resources, examples, links for various data s
     - [Extract Feature Weights](https://github.com/keras-team/keras/issues/12)
     - [2D vs 1D Convolutions for Text](https://github.com/keras-team/keras/issues/233)
     - [Incorporating Word Vectors rather than using an Embedding class](https://github.com/keras-team/keras/issues/853)
+    - [MNIST Transfer Learning](https://github.com/keras-team/keras/blob/master/examples/mnist_transfer_cnn.py)
 - xgboost
   - [Introduction to Boosted Trees](http://xgboost.readthedocs.io/en/latest/model.html)
   - [Bagging using xgboost](https://github.com/daxiongshu/tradeshift-text-classification)
