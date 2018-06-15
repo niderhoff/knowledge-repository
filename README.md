@@ -43,7 +43,7 @@ knowledge repository with learning resources, examples, links for various data s
 - [Google Interview University](https://github.com/mhujer/google-interview-university) - Multi-month study plan to becoming a Google software engineer
 - [Dataquest: How to Setup a Data Science Blog](https://www.dataquest.io/blog/how-to-setup-a-data-science-blog/)
 - [Fullstack Web-Developer Path](https://github.com/shovanch/fullstack-web-developer-path)
-- [Frontend Developer Beginner Resources](https://github.com/shovanch/fullstack-web-developer-path)
+- [Frontend Developer Beginner Resources](https://github.com/thedaviddias/Resources-Front-End-Beginner)
 - [Front-End Handbook 2017](https://github.com/FrontendMasters/front-end-handbook-2017)
 - [Path to a free self-taught education in Data Science!](https://github.com/ossu/data-science)
 
