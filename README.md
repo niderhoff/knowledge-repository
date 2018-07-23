@@ -26,6 +26,7 @@ knowledge repository with learning resources, examples, links for various data s
 
 - [Learnanything](https://learn-anything.xyz/)
 - [learnXinYminutes](https://learnxinyminutes.com/)
+- [devhints](https://devhints.io/)
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [Learn by example: Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing)
 - [Things every programmer should know](https://github.com/mr-mig/every-programmer-should-know)
