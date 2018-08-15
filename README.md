@@ -146,6 +146,13 @@ knowledge repository with learning resources, examples, links for various data s
   - [State of the art text classification with universal language models](http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html)
 - Speech Recognition
   - [Speech Recognition in Python](https://realpython.com/python-speech-recognition/)
+  
+### Deployment
+
+- Tensorflow in Browser+
+  - [https://towardsdatascience.com/deep-learning-in-your-browser-a-brisk-guide-ca06c2198846](Deep Learning in your Browser - a brisk guide)
+- Data Science in Docker
+  - [https://medium.com/botsupply/tensorflow-docker-production-ready-ai-product-ae30435ad8e9](Tensorflow+Docker=Production Ready Ai product (?))
 
 ### R
 
