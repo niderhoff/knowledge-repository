@@ -147,12 +147,12 @@ knowledge repository with learning resources, examples, links for various data s
 - Speech Recognition
   - [Speech Recognition in Python](https://realpython.com/python-speech-recognition/)
   
-### Deployment
+### Data Science Deployment / Production
 
-- Tensorflow in Browser+
-  - [https://towardsdatascience.com/deep-learning-in-your-browser-a-brisk-guide-ca06c2198846](Deep Learning in your Browser - a brisk guide)
-- Data Science in Docker
-  - [https://medium.com/botsupply/tensorflow-docker-production-ready-ai-product-ae30435ad8e9](Tensorflow+Docker=Production Ready Ai product (?))
+- tensorflowjs
+  - [Deep Learning in your Browser - a brisk guide](https://towardsdatascience.com/deep-learning-in-your-browser-a-brisk-guide-ca06c2198846)
+- Docker
+  - [Tensorflow+Docker=Production Ready Ai product (?)](https://medium.com/botsupply/tensorflow-docker-production-ready-ai-product-ae30435ad8e9)
 
 ### R
 
