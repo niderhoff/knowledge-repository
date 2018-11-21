@@ -147,6 +147,9 @@ knowledge repository with learning resources, examples, links for various data s
   - [State of the art text classification with universal language models](http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html)
 - Speech Recognition
   - [Speech Recognition in Python](https://realpython.com/python-speech-recognition/)
+- Time Series
+  - [Open ML Course 9: Time Series Analysis in Python](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-9-time-series-analysis-in-python-a270cb05e0b3)
+  - [A Guide to Time Series Forecasting with ARIMA in Python](https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-arima-in-python-3)
   
 ### Data Science Deployment / Production
 
