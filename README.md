@@ -5,23 +5,23 @@ knowledge repository with learning resources, examples, links for various data s
 ## Contents
 
 - [Knowledge Repository](#knowledge-repository)
-  - [Contents](#contents)
-  - [General Programming](#general-programming)
-  - [Meta-Lists](#meta-lists)
-  - [Data Science](#data-science)
-    - [Blogs / personal websites](#blogs--personal-websites)
-    - [Machine Learning Theory](#machine-learning-theory)
-    - [Python for Data Science (by Framework)](#python-for-data-science-by-framework)
-    - [Python for Data Science (by Topic)](#python-for-data-science-by-topic)
-    - [Data Science Deployment / Production](#data-science-deployment--production)
-    - [R](#r)
-  - [Big Data](#big-data)
-  - [Web Development](#web-development)
-  - [Python](#python)
-  - [JavaScript](#javascript)
-  - [Others](#others)
-  - [Unread](#unread)
-  - [Read Archive](#read-archive)
+    - [Contents](#contents)
+    - [General Programming](#general-programming)
+    - [Meta-Lists](#meta-lists)
+    - [Data Science](#data-science)
+        - [Blogs / personal websites](#blogs--personal-websites)
+        - [Machine Learning Theory](#machine-learning-theory)
+        - [Python for Data Science (by Framework)](#python-for-data-science-by-framework)
+        - [Python for Data Science (by Topic)](#python-for-data-science-by-topic)
+        - [Data Science Deployment / Production](#data-science-deployment--production)
+        - [R](#r)
+    - [Big Data](#big-data)
+    - [Web Development](#web-development)
+    - [Python](#python)
+    - [JavaScript](#javascript)
+    - [Others](#others)
+    - [Unread](#unread)
+    - [Read Archive](#read-archive)
 
 ## General Programming
 
@@ -136,6 +136,12 @@ knowledge repository with learning resources, examples, links for various data s
 
 ### Python for Data Science (by Topic)
 
+- Anomaly Detection
+  - [Anomaly Detection, Recommender Systems and Scaling](https://towardsdatascience.com/machine-learning-basics-part-4-anomaly-detection-recommender-systems-and-scaling-b8bbf0413aa9)
+  - [Online anomaly detection](https://stats.stackexchange.com/questions/343579/online-anomaly-detection)
+  - [Cross validation for anomaly detection using autoencoder](https://datascience.stackexchange.com/questions/37396/cross-validation-for-anomaly-detection-using-autoencoder)
+  - [Machine Learning Class Notes Lecture 16: Anomaly Detection¶](https://machine-learning-class-notes.readthedocs.io/en/latest/lecture16.html)
+  - [arXiv: Model Selection for Anomaly Detection](https://arxiv.org/abs/1707.03909)
 - Image Recognition
   - Classification
     - [Multi-Label Classification using SmallerVGGNet and Keras](https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras)
@@ -150,6 +156,8 @@ knowledge repository with learning resources, examples, links for various data s
 - Time Series
   - [Open ML Course 9: Time Series Analysis in Python](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-9-time-series-analysis-in-python-a270cb05e0b3)
   - [A Guide to Time Series Forecasting with ARIMA in Python](https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-arima-in-python-3)
+  - SARIMAX
+    - [Sarimax not converging](https://stats.stackexchange.com/questions/313426/mle-convergence-errors-with-statespace-sarimax)
   
 ### Data Science Deployment / Production
 
