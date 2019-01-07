@@ -84,6 +84,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [Data Science Simplified Part 11: Logistic Regression](https://towardsdatascience.com/data-science-simplified-part-11-logistic-regression-5ae8d994bf0e)
 - Neural networks
   - [deeplearningbook](http://www.deeplearningbook.org/) THE book by Bengio/GoodFellow/Courville. From NN to autoencoders..
+  - [Dive into Deep Learning (berkeley)](http://d2l.ai/chapter_introduction/index.html)
   - [Deep Learning in Neural Networks: An Overview (paywall)](https://www.sciencedirect.com/science/article/pii/S0893608014002135)
   - CapsNet
     - [What is a CapsNet](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc)
