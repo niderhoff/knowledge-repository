@@ -5,23 +5,23 @@ knowledge repository with learning resources, examples, links for various data s
 ## Contents
 
 - [Knowledge Repository](#knowledge-repository)
-    - [Contents](#contents)
-    - [General Programming](#general-programming)
-    - [Meta-Lists](#meta-lists)
-    - [Data Science](#data-science)
-        - [Blogs / personal websites](#blogs--personal-websites)
-        - [Machine Learning Theory](#machine-learning-theory)
-        - [Python for Data Science (by Framework)](#python-for-data-science-by-framework)
-        - [Python for Data Science (by Topic)](#python-for-data-science-by-topic)
-        - [Data Science Deployment / Production](#data-science-deployment--production)
-        - [R](#r)
-    - [Big Data](#big-data)
-    - [Web Development](#web-development)
-    - [Python](#python)
-    - [JavaScript](#javascript)
-    - [Others](#others)
-    - [Unread](#unread)
-    - [Read Archive](#read-archive)
+  - [Contents](#contents)
+  - [General Programming](#general-programming)
+  - [Meta-Lists](#meta-lists)
+  - [Data Science](#data-science)
+    - [Reading](#reading)
+    - [Machine Learning Theory](#machine-learning-theory)
+    - [Python for Data Science (by Framework)](#python-for-data-science-by-framework)
+    - [Python for Data Science (by Topic)](#python-for-data-science-by-topic)
+    - [Data Science Deployment / Production](#data-science-deployment--production)
+    - [R](#r)
+  - [Big Data](#big-data)
+  - [Web Development](#web-development)
+  - [Python](#python)
+  - [JavaScript](#javascript)
+  - [Others](#others)
+  - [Unread](#unread)
+  - [Read Archive](#read-archive)
 
 ## General Programming
 
@@ -57,12 +57,13 @@ knowledge repository with learning resources, examples, links for various data s
 - [Datacamp](https://www.datacamp.com/community/)
 - [How to get into the Top15 of Kaggle with Python](https://www.dataquest.io/blog/kaggle-tutorial/)
 
-### Blogs / personal websites
+### Reading
 
-- [Sebastian Raschka](https://sebastianraschka.com/)
-- [Karpathy Blog](http://karpathy.github.io/2015/10/25/selfie/)
-- [Francois Chollet (keras) Blog](https://blog.keras.io/index.html)
-- [Dataquest](https://www.dataquest.io/blog/)
+- Blogs/Webpages
+  - [Sebastian Raschka](https://sebastianraschka.com/)
+  - [Karpathy Blog](http://karpathy.github.io/2015/10/25/selfie/)
+  - [Francois Chollet (keras) Blog](https://blog.keras.io/index.html)
+  - [Dataquest](https://www.dataquest.io/blog/)
 
 ### Machine Learning Theory
 
@@ -80,11 +81,11 @@ knowledge repository with learning resources, examples, links for various data s
   - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
   - [Machine Learning Mastery](https://machinelearningmastery.com/)
   - [Deep Learning with Google (Udacity)](https://de.udacity.com/course/deep-learning--ud730)
+  - [Dive into Deep Learning (berkeley)](http://d2l.ai/chapter_introduction/index.html) Theory & Practice
 - Logistic Regression
   - [Data Science Simplified Part 11: Logistic Regression](https://towardsdatascience.com/data-science-simplified-part-11-logistic-regression-5ae8d994bf0e)
-- Neural networks
+- Neural Networks / Deep Learning
   - [deeplearningbook](http://www.deeplearningbook.org/) THE book by Bengio/GoodFellow/Courville. From NN to autoencoders..
-  - [Dive into Deep Learning (berkeley)](http://d2l.ai/chapter_introduction/index.html)
   - [Deep Learning in Neural Networks: An Overview (paywall)](https://www.sciencedirect.com/science/article/pii/S0893608014002135)
   - CapsNet
     - [What is a CapsNet](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc)
@@ -106,10 +107,12 @@ knowledge repository with learning resources, examples, links for various data s
 
 ### Python for Data Science (by Framework)
 
-- Pandas, scikit-learn
+- Basics, Pandas, scikit-learn
   - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
   - [Missing Data/Imputation in pandas](https://pandas.pydata.org/pandas-docs/stable/missing_data.html)
   - [Cross-Validation (sklearn)](http://scikit-learn.org/stable/modules/cross_validation.html)
+  - [auto-sklearn](https://automl.github.io/auto-sklearn/stable/)
+  - [out-of-memory dataframes](https://towardsdatascience.com/vaex-out-of-core-dataframes-for-python-and-fast-visualization-12c102db044a)
 - TensorFlow
   - [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
   - [TensorFlow for Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/)
@@ -143,11 +146,13 @@ knowledge repository with learning resources, examples, links for various data s
   - [Cross validation for anomaly detection using autoencoder](https://datascience.stackexchange.com/questions/37396/cross-validation-for-anomaly-detection-using-autoencoder)
   - [Machine Learning Class Notes Lecture 16: Anomaly Detection¶](https://machine-learning-class-notes.readthedocs.io/en/latest/lecture16.html)
   - [arXiv: Model Selection for Anomaly Detection](https://arxiv.org/abs/1707.03909)
-- Image Recognition
+- Computer Vision
   - Classification
     - [Multi-Label Classification using SmallerVGGNet and Keras](https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras)
   - OCR
     - [OCR using tesseract and opencv](https://www.learnopencv.com/deep-learning-based-text-recognition-ocr-using-tesseract-and-opencv/)
+- Feature Engineering
+  - [Featuretools](https://www.featuretools.com/) - automatic feature engineering
 - NLP
   - [Topic Modeling with Gensim](https://www.udemy.com/understand-javascript/)
   - [Text Summarization](https://github.com/chakki-works/sumeval) - sumeval
@@ -162,10 +167,13 @@ knowledge repository with learning resources, examples, links for various data s
   
 ### Data Science Deployment / Production
 
-- tensorflowjs
-  - [Deep Learning in your Browser - a brisk guide](https://towardsdatascience.com/deep-learning-in-your-browser-a-brisk-guide-ca06c2198846)
 - Docker
   - [Tensorflow+Docker=Production Ready Ai product (?)](https://medium.com/botsupply/tensorflow-docker-production-ready-ai-product-ae30435ad8e9)
+- TensorFlow
+  - tensorflowjs
+    - [Deep Learning in your Browser - a brisk guide](https://towardsdatascience.com/deep-learning-in-your-browser-a-brisk-guide-ca06c2198846)
+  - [TensorFlow Lite](https://www.tensorflow.org/lite/)
+- REST-API
 
 ### R
 
