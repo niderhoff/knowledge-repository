@@ -147,6 +147,30 @@ knowledge repository with learning resources, examples, links for various data s
   - [Machine Learning Class Notes Lecture 16: Anomaly Detection¶](https://machine-learning-class-notes.readthedocs.io/en/latest/lecture16.html)
   - [arXiv: Model Selection for Anomaly Detection](https://arxiv.org/abs/1707.03909)
 - Computer Vision
+  - Action Detection
+    - [awesome action recognition](https://github.com/jinwchoi/awesome-action-recognition)
+    - [Real-time Action detection demo for the work Actor Conditioned Attention Maps](https://github.com/oulutan/ACAM_Demo)
+    - [2-stream CNN architectures for action detection and recognition with attention filtering](https://github.com/pedro-abreu/twostream-attention)
+    - [action recognition github search](https://github.com/search?q=action+recognition&type=Repositories)
+    - [Real-Time Action Detection](https://github.com/gurkirt/realtime-action-detection)
+    - [temporal action detection with SSN](https://github.com/yjxiong/action-detection)
+    - [Weakly supervised action recognition and detection](https://github.com/wanglimin/UntrimmedNet)
+    - [human action recognition with keras](https://github.com/oswaldoludwig/Human-Action-Recognition-with-Keras)
+    - [cascaded boundary regression for action detection](https://github.com/jiyanggao/CBR)
+    - [action detection dRNN](https://github.com/zkl99999/tensorflow_video_rnn)
+    - [Single-Stream Temporal Action Detection in Untrimmed Videos ](https://github.com/shyamal-b/ss-tad)
+    - [Deep Adaptive Attention for Joint Facial Action Unit Detection and Face Alignment](https://github.com/ZhiwenShao/JAANet)
+    - [Co-occurrence Feature Learning from Skeleton Data for Action Recognition and Detection with Hierarchical Aggregation](https://github.com/huguyuehuhu/HCN-pytorch)
+    - [hand-detection motion control](https://github.com/beckabec/HandDetection)
+    - [Cross Dataset framework that both detects actions in a crowded scenes](https://github.com/aelnouby/Cross-Dataset-Action-Detection)
+    - [Graph Distillation for Action Detection](https://github.com/google/graph_distillation)
+    - [Kinect Real-time (Online) Action Detection](https://github.com/AmrSaleh/KinectOnlineActionDetection)
+    - Face
+      - [ROS toolbox face action recognition](https://github.com/cagbal/ros_people_object_detection_tensorflow)
+      - [OpenFace - face action detection](https://github.com/TadasBaltrusaitis/OpenFace)
+      - [deep region and multi-label learning](https://github.com/zkl20061823/DRML)
+      - [Multi-View Dynamic Facial Action Unit Detection](https://github.com/BCV-Uniandes/AUNets)
+      - [Deep Region and Multi-Label Learning for Facial Action Unit Detection](https://github.com/AlexHex7/DRML_pytorch)
   - Classification
     - [Multi-Label Classification using SmallerVGGNet and Keras](https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras)
   - OCR
