@@ -188,6 +188,8 @@ knowledge repository with learning resources, examples, links for various data s
   - [A Guide to Time Series Forecasting with ARIMA in Python](https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-arima-in-python-3)
   - SARIMAX
     - [Sarimax not converging](https://stats.stackexchange.com/questions/313426/mle-convergence-errors-with-statespace-sarimax)
+- Recommender Systems
+  - [Best practices](https://github.com/microsoft/recommenders)
   
 ### Data Science Deployment / Production
 
