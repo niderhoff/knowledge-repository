@@ -87,9 +87,7 @@ knowledge repository with learning resources, examples, links for various data s
 - Neural Networks / Deep Learning
   - [deeplearningbook](http://www.deeplearningbook.org/) THE book by Bengio/GoodFellow/Courville. From NN to autoencoders..
   - [Deep Learning in Neural Networks: An Overview (paywall)](https://www.sciencedirect.com/science/article/pii/S0893608014002135)
-  - CapsNet
-    - [What is a CapsNet](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc)
-    - [Understanding Hinton's Capsule Networks](https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
+  - [Dive into Deep Learning](https://d2l.ai/)
   - CNN
     - [Beginner's Guide to Understanding CNN](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
     - [100 Best CNN Videos](http://meta-guide.com/videography/100-best-convolutional-neural-network-videos)
