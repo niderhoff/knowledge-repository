@@ -145,7 +145,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [Machine Learning Class Notes Lecture 16: Anomaly Detection¶](https://machine-learning-class-notes.readthedocs.io/en/latest/lecture16.html)
   - [arXiv: Model Selection for Anomaly Detection](https://arxiv.org/abs/1707.03909)
 - Computer Vision
-  - Action Detection
+  - Action Recognition
     - [awesome action recognition](https://github.com/jinwchoi/awesome-action-recognition)
     - [Real-time Action detection demo for the work Actor Conditioned Attention Maps](https://github.com/oulutan/ACAM_Demo)
     - [2-stream CNN architectures for action detection and recognition with attention filtering](https://github.com/pedro-abreu/twostream-attention)
@@ -171,6 +171,8 @@ knowledge repository with learning resources, examples, links for various data s
       - [Deep Region and Multi-Label Learning for Facial Action Unit Detection](https://github.com/AlexHex7/DRML_pytorch)
   - Classification
     - [Multi-Label Classification using SmallerVGGNet and Keras](https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras)
+  - Object Detection & Image Segmentation
+    - [Detectron2 Framework](https://github.com/facebookresearch/detectron2) Framework; pytorch-based (from facebook)
   - OCR
     - [OCR using tesseract and opencv](https://www.learnopencv.com/deep-learning-based-text-recognition-ocr-using-tesseract-and-opencv/)
 - Feature Engineering
