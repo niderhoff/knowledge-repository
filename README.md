@@ -171,6 +171,8 @@ knowledge repository with learning resources, examples, links for various data s
       - [Deep Region and Multi-Label Learning for Facial Action Unit Detection](https://github.com/AlexHex7/DRML_pytorch)
   - Classification
     - [Multi-Label Classification using SmallerVGGNet and Keras](https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras)
+  - Frameworks
+    - [TorchCV: A PyTorch-Based Framework for Deep Learning in Computer Vision](https://github.com/donnyyou/torchcv)
   - Object Detection & Image Segmentation
     - [Detectron2 Framework](https://github.com/facebookresearch/detectron2) Framework; pytorch-based (from facebook)
   - OCR
