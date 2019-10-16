@@ -195,14 +195,18 @@ knowledge repository with learning resources, examples, links for various data s
   
 ### Data Science Deployment / Production
 
-- Docker
+- Containerization (Docker)
   - [Tensorflow+Docker=Production Ready Ai product (?)](https://medium.com/botsupply/tensorflow-docker-production-ready-ai-product-ae30435ad8e9)
+- Data Transmission / APIs
+  - Protobuf
+    - [Apache Arrow Flight](https://arrow.apache.org/blog/2019/10/13/introducing-arrow-flight/) faster gRPC implementation
+  - RESTful
+    - Debugging
+      - [postwoman](https://github.com/liyasthomas/postwoman) postman alternative
 - TensorFlow
   - tensorflowjs
     - [Deep Learning in your Browser - a brisk guide](https://towardsdatascience.com/deep-learning-in-your-browser-a-brisk-guide-ca06c2198846)
   - [TensorFlow Lite](https://www.tensorflow.org/lite/)
-- REST-API
-  - [postwoman](https://github.com/liyasthomas/postwoman) postman alternative
 
 ### Tools
 
