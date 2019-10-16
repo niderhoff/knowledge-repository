@@ -112,6 +112,14 @@ knowledge repository with learning resources, examples, links for various data s
   - [Cross-Validation (sklearn)](http://scikit-learn.org/stable/modules/cross_validation.html)
   - [auto-sklearn](https://automl.github.io/auto-sklearn/stable/)
   - [out-of-memory dataframes](https://towardsdatascience.com/vaex-out-of-core-dataframes-for-python-and-fast-visualization-12c102db044a)
+- Boosting
+  - xgboost
+    - [Introduction to Boosted Trees](http://xgboost.readthedocs.io/en/latest/model.html)
+    - [Bagging using xgboost](https://github.com/daxiongshu/tradeshift-text-classification)
+  - [catboost](https://github.com/catboost/catboost)
+    - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU
+  - [lightgbm](https://github.com/microsoft/LightGBM)
+    - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. 
 - TensorFlow
   - [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
   - [TensorFlow for Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/)
@@ -137,9 +145,7 @@ knowledge repository with learning resources, examples, links for various data s
 - pytorch
   - [torch2rt](https://github.com/NVIDIA-AI-IOT/torch2trt) An easy to use PyTorch to TensorRT converter
   - [TorchCV: A PyTorch-Based Framework for Deep Learning in Computer Vision](https://github.com/donnyyou/torchcv)
-- xgboost
-  - [Introduction to Boosted Trees](http://xgboost.readthedocs.io/en/latest/model.html)
-  - [Bagging using xgboost](https://github.com/daxiongshu/tradeshift-text-classification)
+
 
 ### Python for Data Science (by Topic)
 
