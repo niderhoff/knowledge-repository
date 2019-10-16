@@ -82,6 +82,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [Machine Learning Mastery](https://machinelearningmastery.com/)
   - [Deep Learning with Google (Udacity)](https://de.udacity.com/course/deep-learning--ud730)
   - [Dive into Deep Learning (berkeley)](http://d2l.ai/chapter_introduction/index.html) Theory & Practice
+  - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) Open Machine Learning Course (unsupervised learning, tress, feature engineering, boosting etc. - no deep learning)
 - Logistic Regression
   - [Data Science Simplified Part 11: Logistic Regression](https://towardsdatascience.com/data-science-simplified-part-11-logistic-regression-5ae8d994bf0e)
 - Neural Networks / Deep Learning
@@ -114,6 +115,7 @@ knowledge repository with learning resources, examples, links for various data s
 - TensorFlow
   - [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
   - [TensorFlow for Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/)
+  - [ludwig](https://github.com/uber/ludwig) Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code. 
   - Object Detection
     - [Hand Detector (Egohands Dataset)](https://towardsdatascience.com/how-to-build-a-real-time-hand-detector-using-neural-networks-ssd-on-tensorflow-d6bac0e4b2ce) - [Code](https://github.com/victordibia/handtracking)
   - NLP
@@ -132,6 +134,9 @@ knowledge repository with learning resources, examples, links for various data s
     - [2D vs 1D Convolutions for Text](https://github.com/keras-team/keras/issues/233)
     - [Incorporating Word Vectors rather than using an Embedding class](https://github.com/keras-team/keras/issues/853)
     - [MNIST Transfer Learning](https://github.com/keras-team/keras/blob/master/examples/mnist_transfer_cnn.py)
+- pytorch
+  - [torch2rt](https://github.com/NVIDIA-AI-IOT/torch2trt) An easy to use PyTorch to TensorRT converter
+  - [TorchCV: A PyTorch-Based Framework for Deep Learning in Computer Vision](https://github.com/donnyyou/torchcv)
 - xgboost
   - [Introduction to Boosted Trees](http://xgboost.readthedocs.io/en/latest/model.html)
   - [Bagging using xgboost](https://github.com/daxiongshu/tradeshift-text-classification)
@@ -169,17 +174,24 @@ knowledge repository with learning resources, examples, links for various data s
       - [deep region and multi-label learning](https://github.com/zkl20061823/DRML)
       - [Multi-View Dynamic Facial Action Unit Detection](https://github.com/BCV-Uniandes/AUNets)
       - [Deep Region and Multi-Label Learning for Facial Action Unit Detection](https://github.com/AlexHex7/DRML_pytorch)
+    - Framework
+      - [Videoflow](https://github.com/videoflow/videoflow) Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment. 
   - Classification
     - [Multi-Label Classification using SmallerVGGNet and Keras](https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras)
-  - Frameworks
-    - [TorchCV: A PyTorch-Based Framework for Deep Learning in Computer Vision](https://github.com/donnyyou/torchcv)
+  - Face Recognition
+    - [face_recognition](https://github.com/ageitgey/face_recognition) The world's simplest facial recognition api for Python and the command line
+    - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).
+    - [faceswap](https://github.com/deepfakes/faceswap) Deepfakes Software For All 
   - Object Detection & Image Segmentation
     - [Detectron2 Framework](https://github.com/facebookresearch/detectron2) Framework; pytorch-based (from facebook)
+    - [Object Removal](https://github.com/zllrunning/video-object-removal) Just draw a bounding box and you can remove the object you want to remove
   - OCR
     - [OCR using tesseract and opencv](https://www.learnopencv.com/deep-learning-based-text-recognition-ocr-using-tesseract-and-opencv/)
 - Feature Engineering
   - [Featuretools](https://www.featuretools.com/) - automatic feature engineering
 - NLP
+  - Models
+    - [Transformers](https://github.com/huggingface/transformers) State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch. 
   - [Topic Modeling with Gensim](https://www.udemy.com/understand-javascript/)
   - [Text Summarization](https://github.com/chakki-works/sumeval) - sumeval
   - [State of the art text classification with universal language models](http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html)
@@ -192,11 +204,18 @@ knowledge repository with learning resources, examples, links for various data s
     - [Sarimax not converging](https://stats.stackexchange.com/questions/313426/mle-convergence-errors-with-statespace-sarimax)
 - Recommender Systems
   - [Best practices](https://github.com/microsoft/recommenders)
-  
+- Reinforcement Learning / Games
+  - Environments
+    - [AirSim](https://github.com/microsoft/AirSim) Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research 
+    - [RLTrader](https://github.com/notadamking/RLTrader) A cryptocurrency trading environment using deep reinforcement learning and OpenAI's gym 
+    
+
 ### Data Science Deployment / Production
 
 - Containerization (Docker)
   - [Tensorflow+Docker=Production Ready Ai product (?)](https://medium.com/botsupply/tensorflow-docker-production-ready-ai-product-ae30435ad8e9)
+- Distributed Learning
+  - [Ray](https://github.com/ray-project/ray) A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning libr… 
 - Data Transmission / APIs
   - Protobuf
     - [Apache Arrow Flight](https://arrow.apache.org/blog/2019/10/13/introducing-arrow-flight/) faster gRPC implementation
