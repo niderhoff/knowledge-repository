@@ -143,7 +143,7 @@ knowledge repository with learning resources, examples, links for various data s
 - pytorch
   - [torch2rt](https://github.com/NVIDIA-AI-IOT/torch2trt) An easy to use PyTorch to TensorRT converter
   - [TorchCV: A PyTorch-Based Framework for Deep Learning in Computer Vision](https://github.com/donnyyou/torchcv)
-  - [botorch](https://github.com/pytorch/botorch] bayesian optimization in pytorch
+  - [botorch](https://github.com/pytorch/botorch) bayesian optimization in pytorch
 
 
 ### Python for Data Science (by Topic)
