@@ -31,19 +31,26 @@ knowledge repository with learning resources, examples, links for various data s
 - [Learnanything](https://learn-anything.xyz/)
 - [learnXinYminutes](https://learnxinyminutes.com/)
 - [devhints](https://devhints.io/)
-- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [Learn by example: Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing)
-- [Things every programmer should know](https://github.com/mr-mig/every-programmer-should-know)
-- [Naming Conventions](https://www.wikiwand.com/en/Naming_convention_(programming))
 - Components
   - [What is a Lambda Function?](https://stackoverflow.com/questions/16501/what-is-a-lambda-function)
   - [An Intro to Compilers](https://nicoleorchard.com/blog/compilers)
-- [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon)
+- Knowledge
+  - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+  - [Things every programmer should know](https://github.com/mr-mig/every-programmer-should-know)
+  - [Naming Conventions](https://www.wikiwand.com/en/Naming_convention_(programming))
+  - [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon)
+  - Software Architecture
+    - [Software Architecture Patterns](https://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf) - Free O'Reilly Book
+- Techniques
+  - [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
 - Git
   - [Interactive Tutorial](https://try.github.io/)
 - CI/CD
   - [I am a mediocre Developer](https://dev.to/sobolevn/i-am-a-mediocre-developer--30hn)
-- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- CLI
+  - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+  - [htop explained](https://peteris.rocks/blog/htop/)
 
 ## Meta-Lists
 
@@ -125,20 +132,31 @@ knowledge repository with learning resources, examples, links for various data s
     - [Bagging using xgboost](https://github.com/daxiongshu/tradeshift-text-classification)
   - [catboost](https://github.com/catboost/catboost) A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU
   - [lightgbm](https://github.com/microsoft/LightGBM) A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
-- TensorFlow
-  - [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
-  - [TensorFlow for Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/)
-  - [ludwig](https://github.com/uber/ludwig) Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
+- TensorFlow & new Keras
+  - Data Ingest
+    - [Train-Test Split with ImageDataGenerator](https://stackoverflow.com/questions/42443936/keras-split-train-test-set-when-using-imagedatagenerator)
+  - Learn
+    - [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
+    - [TensorFlow for Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/)
+  - Frameworks & Integration
+    - [ludwig](https://github.com/uber/ludwig) Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
   - Object Detection
     - [Hand Detector (Egohands Dataset)](https://towardsdatascience.com/how-to-build-a-real-time-hand-detector-using-neural-networks-ssd-on-tensorflow-d6bac0e4b2ce) - [Code](https://github.com/victordibia/handtracking)
   - NLP
     - [CNN for Text Classification](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/#more-452)
     - [word2vec (TensorFlow Tutorial)](https://www.tensorflow.org/tutorials/word2vec)
     - [CNN for Text Classifcation (Kim 2014)](https://github.com/dennybritz/cnn-text-classification-tf)
-- [Keras](http://keras.io/)
-  - [Deep Learning with Python (Francois Chollet)](https://www.manning.com/books/deep-learning-with-python) - [Code](https://github.com/fchollet/deep-learning-with-python-notebooks)
-  - [With Sciikit-learn API](https://keras.io/scikit-learn-api/)
-  - [Examples](https://github.com/keras-team/keras/tree/master/examples)
+  - Tooling
+    - Tensorboard
+      - [Tensorboard Distributions and histograms (stackoverflow)](https://stackoverflow.com/questions/42425858/tensorboard-distributions-and-histograms-with-keras-and-fit-generator)
+  - Interpret & Visualize Models
+    - [Interpreting Tensorflow models with tf-explain](https://gilberttanner.com/blog/interpreting-tensorflow-model-with-tf-explain)
+- [Keras (old)](http://keras.io/)
+  - Learn
+    - [Deep Learning with Python (Francois Chollet)](https://www.manning.com/books/deep-learning-with-python) - [Code](https://github.com/fchollet/deep-learning-with-python-notebooks)
+    - [Examples](https://github.com/keras-team/keras/tree/master/examples)
+  - Integration
+    - [With Sciikit-learn API](https://keras.io/scikit-learn-api/)
   - Advanced
     - [Combining Different Filter Lengths in 1D-Convolutional Layers](https://github.com/keras-team/keras/issues/1023)
     - [Dynamic k-max Pooling](https://github.com/keras-team/keras/issues/373)
@@ -281,8 +299,11 @@ knowledge repository with learning resources, examples, links for various data s
 - Kubernetes
   - [10 most common mistakes using kubernetes](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
   - [Common mistakes using Kubernetes (hackernews)](https://news.ycombinator.com/item?id=23211325)
+  - [A gentle Introduction to Kubernetes](https://medium.com/faun/a-gentle-introduction-to-kubernetes-4961e443ba26)
 - nginx
   - [nginx config generator ui](https://www.digitalocean.com/community/tools/nginx)
+- Caching / In-Memory DB
+  - [KeyDB](https://docs.keydb.dev/blog/2019/10/07/blog-post/) - Multithreaded Redis fork ("5 times faster")
 - RESTful APIs
   - Tooling
     - [postwoman](https://github.com/liyasthomas/postwoman) postman alternative
@@ -292,6 +313,7 @@ knowledge repository with learning resources, examples, links for various data s
 ## Python (non-datascience)
 
 - Courses
+  - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/) - opinionated guide
   - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
   - [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
   - [Object Oriented Programming](https://python.swaroopch.com/oop.html)
@@ -303,6 +325,8 @@ knowledge repository with learning resources, examples, links for various data s
   - [Numba: A High Performance Python (JIT) compiler](http://numba.pydata.org/)
   - [Python resources for development](https://gist.github.com/AlmasM/8a05355dbd84029eae03f92c5c61038f)
   - [Hypermodern Python Dev Environment](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
+  - Type Checking
+  - [Our Journey to type checking..](https://dropbox.tech/application/our-journey-to-type-checking-4-million-lines-of-python) - Dropbox Blog
 - Async
   - [Async Python is not faster](http://calpaterson.com/async-python-is-not-faster.html) - HTTP server benchmarks
   - [Asynco IO in Python: A Complete Walkthrough](https://realpython.com/async-io-python/)
