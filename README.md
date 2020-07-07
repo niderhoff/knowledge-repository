@@ -222,22 +222,18 @@ knowledge repository with learning resources, examples, links for various data s
 
 ### Data Science Deployment / Production
 
-- Containerization (Docker)
-  - [Tensorflow+Docker=Production Ready Ai product (?)](https://medium.com/botsupply/tensorflow-docker-production-ready-ai-product-ae30435ad8e9)
 - Distributed Learning
   - [Ray](https://github.com/ray-project/ray) A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning libr…
-- Data Transmission / APIs
-  - Protobuf
-    - [Apache Arrow Flight](https://arrow.apache.org/blog/2019/10/13/introducing-arrow-flight/) faster gRPC implementation
-  - RESTful
-    - Debugging
-      - [postwoman](https://github.com/liyasthomas/postwoman) postman alternative
 - TensorFlow
   - tensorflowjs
     - [Deep Learning in your Browser - a brisk guide](https://towardsdatascience.com/deep-learning-in-your-browser-a-brisk-guide-ca06c2198846)
   - [TensorFlow Lite](https://www.tensorflow.org/lite/)
 
 ### Tools
+
+- Editor / IDE
+  - VIM
+    - [How to use Vim as a Python IDE](http://liuchengxu.org/posts/use-vim-as-a-python-ide/)
 
 ### R
 
@@ -277,11 +273,19 @@ knowledge repository with learning resources, examples, links for various data s
 
 ## Backend
 
+- Data Serialization
+  - [Flexbuffers](https://google.github.io/flatbuffers/flexbuffers.html)
+  - [Hackernews Discussion](https://news.ycombinator.com/item?id=23588558)
+  - Protobuf
+    - [Apache Arrow Flight](https://arrow.apache.org/blog/2019/10/13/introducing-arrow-flight/) faster gRPC implementation
 - Kubernetes
   - [10 most common mistakes using kubernetes](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
   - [Common mistakes using Kubernetes (hackernews)](https://news.ycombinator.com/item?id=23211325)
 - nginx
   - [nginx config generator ui](https://www.digitalocean.com/community/tools/nginx)
+- RESTful APIs
+  - Tooling
+    - [postwoman](https://github.com/liyasthomas/postwoman) postman alternative
 - Video Streaming
   - [Building a media streaming server using go and hls protocol](https://hackernoon.com/building-a-media-streaming-server-using-go-and-hls-protocol-j85h3wem)
 
