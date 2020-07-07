@@ -14,13 +14,16 @@ knowledge repository with learning resources, examples, links for various data s
     - [Python for Data Science (by Framework)](#python-for-data-science-by-framework)
     - [Python for Data Science (by Topic)](#python-for-data-science-by-topic)
     - [Data Science Deployment / Production](#data-science-deployment--production)
+    - [Tools](#tools)
     - [R](#r)
   - [Big Data](#big-data)
-  - [Web Development](#web-development)
-  - [Python](#python)
+  - [Frontend](#frontend)
+  - [Backend](#backend)
+  - [Python (non-datascience)](#python-non-datascience)
   - [JavaScript](#javascript)
+  - [Rust](#rust)
   - [Others](#others)
-  - [Unread](#unread)
+  - [Reading List](#reading-list)
   - [Read Archive](#read-archive)
 
 ## General Programming
@@ -34,11 +37,13 @@ knowledge repository with learning resources, examples, links for various data s
 - [Naming Conventions](https://www.wikiwand.com/en/Naming_convention_(programming))
 - Components
   - [What is a Lambda Function?](https://stackoverflow.com/questions/16501/what-is-a-lambda-function)
+  - [An Intro to Compilers](https://nicoleorchard.com/blog/compilers)
 - [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon)
 - Git
   - [Interactive Tutorial](https://try.github.io/)
 - CI/CD
   - [I am a mediocre Developer](https://dev.to/sobolevn/i-am-a-mediocre-developer--30hn)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 ## Meta-Lists
 
@@ -64,6 +69,8 @@ knowledge repository with learning resources, examples, links for various data s
   - [Karpathy Blog](http://karpathy.github.io/2015/10/25/selfie/)
   - [Francois Chollet (keras) Blog](https://blog.keras.io/index.html)
   - [Dataquest](https://www.dataquest.io/blog/)
+- Papers
+  - [Papers With Code](https://paperswithcode.com/sota) - Browse State-of-the-Art Machine Learning Papers
 
 ### Machine Learning Theory
 
@@ -117,11 +124,11 @@ knowledge repository with learning resources, examples, links for various data s
     - [Introduction to Boosted Trees](http://xgboost.readthedocs.io/en/latest/model.html)
     - [Bagging using xgboost](https://github.com/daxiongshu/tradeshift-text-classification)
   - [catboost](https://github.com/catboost/catboost) A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU
-  - [lightgbm](https://github.com/microsoft/LightGBM) A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. 
+  - [lightgbm](https://github.com/microsoft/LightGBM) A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 - TensorFlow
   - [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
   - [TensorFlow for Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/)
-  - [ludwig](https://github.com/uber/ludwig) Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code. 
+  - [ludwig](https://github.com/uber/ludwig) Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
   - Object Detection
     - [Hand Detector (Egohands Dataset)](https://towardsdatascience.com/how-to-build-a-real-time-hand-detector-using-neural-networks-ssd-on-tensorflow-d6bac0e4b2ce) - [Code](https://github.com/victordibia/handtracking)
   - NLP
@@ -145,7 +152,6 @@ knowledge repository with learning resources, examples, links for various data s
   - [TorchCV: A PyTorch-Based Framework for Deep Learning in Computer Vision](https://github.com/donnyyou/torchcv)
   - [botorch](https://github.com/pytorch/botorch) bayesian optimization in pytorch
 
-
 ### Python for Data Science (by Topic)
 
 - Anomaly Detection
@@ -166,7 +172,7 @@ knowledge repository with learning resources, examples, links for various data s
     - [human action recognition with keras](https://github.com/oswaldoludwig/Human-Action-Recognition-with-Keras)
     - [cascaded boundary regression for action detection](https://github.com/jiyanggao/CBR)
     - [action detection dRNN](https://github.com/zkl99999/tensorflow_video_rnn)
-    - [Single-Stream Temporal Action Detection in Untrimmed Videos ](https://github.com/shyamal-b/ss-tad)
+    - [Single-Stream Temporal Action Detection in Untrimmed Videos](https://github.com/shyamal-b/ss-tad)
     - [Deep Adaptive Attention for Joint Facial Action Unit Detection and Face Alignment](https://github.com/ZhiwenShao/JAANet)
     - [Co-occurrence Feature Learning from Skeleton Data for Action Recognition and Detection with Hierarchical Aggregation](https://github.com/huguyuehuhu/HCN-pytorch)
     - [hand-detection motion control](https://github.com/beckabec/HandDetection)
@@ -180,13 +186,13 @@ knowledge repository with learning resources, examples, links for various data s
       - [Multi-View Dynamic Facial Action Unit Detection](https://github.com/BCV-Uniandes/AUNets)
       - [Deep Region and Multi-Label Learning for Facial Action Unit Detection](https://github.com/AlexHex7/DRML_pytorch)
     - Framework
-      - [Videoflow](https://github.com/videoflow/videoflow) Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment. 
+      - [Videoflow](https://github.com/videoflow/videoflow) Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.
   - Classification
     - [Multi-Label Classification using SmallerVGGNet and Keras](https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras)
   - Face Recognition
     - [face_recognition](https://github.com/ageitgey/face_recognition) The world's simplest facial recognition api for Python and the command line
     - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).
-    - [faceswap](https://github.com/deepfakes/faceswap) Deepfakes Software For All 
+    - [faceswap](https://github.com/deepfakes/faceswap) Deepfakes Software For All
   - Object Detection & Image Segmentation
     - [Detectron2 Framework](https://github.com/facebookresearch/detectron2) Framework; pytorch-based (from facebook)
     - [Object Removal](https://github.com/zllrunning/video-object-removal) Just draw a bounding box and you can remove the object you want to remove
@@ -196,7 +202,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [Featuretools](https://www.featuretools.com/) - automatic feature engineering
 - NLP
   - Models
-    - [Transformers](https://github.com/huggingface/transformers) State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch. 
+    - [Transformers](https://github.com/huggingface/transformers) State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
   - [Topic Modeling with Gensim](https://www.udemy.com/understand-javascript/)
   - [Text Summarization](https://github.com/chakki-works/sumeval) - sumeval
   - [State of the art text classification with universal language models](http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html)
@@ -211,16 +217,15 @@ knowledge repository with learning resources, examples, links for various data s
   - [Best practices](https://github.com/microsoft/recommenders)
 - Reinforcement Learning / Games
   - Environments
-    - [AirSim](https://github.com/microsoft/AirSim) Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research 
-    - [RLTrader](https://github.com/notadamking/RLTrader) A cryptocurrency trading environment using deep reinforcement learning and OpenAI's gym 
-    
+    - [AirSim](https://github.com/microsoft/AirSim) Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
+    - [RLTrader](https://github.com/notadamking/RLTrader) A cryptocurrency trading environment using deep reinforcement learning and OpenAI's gym
 
 ### Data Science Deployment / Production
 
 - Containerization (Docker)
   - [Tensorflow+Docker=Production Ready Ai product (?)](https://medium.com/botsupply/tensorflow-docker-production-ready-ai-product-ae30435ad8e9)
 - Distributed Learning
-  - [Ray](https://github.com/ray-project/ray) A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning libr… 
+  - [Ray](https://github.com/ray-project/ray) A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning libr…
 - Data Transmission / APIs
   - Protobuf
     - [Apache Arrow Flight](https://arrow.apache.org/blog/2019/10/13/introducing-arrow-flight/) faster gRPC implementation
@@ -244,7 +249,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [Hadoop - The Definitive Guide (O'Reilly)](http://hadoopbook.com/)
   - [Hadoop starter kit](http://hadoopinrealworld.com/hadoopstarterkit/) - Free Hadoop Cluster (3 nodes)
 
-## Web Development
+## Frontend
 
 - [Chrome Dev Tools: Overview](https://developer.chrome.com/devtools)
 - [MDN](https://developer.mozilla.org/en-US/)
@@ -270,24 +275,69 @@ knowledge repository with learning resources, examples, links for various data s
   - [Behance](https://www.behance.net/)
   - [awesome-inspire](https://github.com/NoahBuscher/Inspire)
 
-## Python
+## Backend
+
+- Kubernetes
+  - [10 most common mistakes using kubernetes](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
+  - [Common mistakes using Kubernetes (hackernews)](https://news.ycombinator.com/item?id=23211325)
+- nginx
+  - [nginx config generator ui](https://www.digitalocean.com/community/tools/nginx)
+- Video Streaming
+  - [Building a media streaming server using go and hls protocol](https://hackernoon.com/building-a-media-streaming-server-using-go-and-hls-protocol-j85h3wem)
+
+## Python (non-datascience)
 
 - Courses
   - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
   - [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
   - [Object Oriented Programming](https://python.swaroopch.com/oop.html)
-- [Using Config files](https://martin-thoma.com/configuration-files-in-python/) - YAML, JSON, etc.
-- [Example Google Style Python Docstrings](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
+- Basics
+  - [Using Config files](https://martin-thoma.com/configuration-files-in-python/) - YAML, JSON, etc.
+  - [Number Formatting](https://mkaz.blog/code/python-string-format-cookbook/)
+  - [Example Google Style Python Docstrings](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
+- Tooling (Testing/Linting/Runtimes/Compiler)
+  - [Numba: A High Performance Python (JIT) compiler](http://numba.pydata.org/)
+  - [Python resources for development](https://gist.github.com/AlmasM/8a05355dbd84029eae03f92c5c61038f)
+  - [Hypermodern Python Dev Environment](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
+- Async
+  - [Async Python is not faster](http://calpaterson.com/async-python-is-not-faster.html) - HTTP server benchmarks
+  - [Asynco IO in Python: A Complete Walkthrough](https://realpython.com/async-io-python/)
+  - [Concurrency Python discussion (hackernews)](https://news.ycombinator.com/item?id=23289563)
+- Django
+  - [GraphQL in Django](https://medium.com/swlh/graphql-in-django-an-overview-51d27e7fceb3)
+  - [How to manage concurrency in Django Models](https://medium.com/@hakibenita/how-to-manage-concurrency-in-django-models-b240fed4ee2)
+  - [Concurrency control in Django model](https://stackoverflow.com/questions/1645269/concurrency-control-in-django-model)
+  - [Django-celery (pypi)](https://pypi.org/project/django-celery/) - Celery Integration for Django
+  - [Django-rq](https://github.com/rq/django-rq) - Django integration for RQ (Redis Queue)
+- Databases
+  - [Better PostgreSQL testing with Python: announcing pytest-pqsql and pqmock](https://technology.cloverhealth.com/better-postgresql-testing-with-python-announcing-pytest-pgsql-and-pgmock-d0c569d0602a?gi=74ffda2bea7c)
+  - [pytest-postgresql 2.4.0 (pypi)](https://pypi.org/project/pytest-postgresql/)
+  - [Database testing in python, postgresql (stackoverflow)](https://stackoverflow.com/questions/2723406/database-testing-in-python-postgresql)
+  - [Databases (Full Stack Python)](https://www.fullstackpython.com/databases.html)
 - Telethon (Telegram API Wrapper)
   - [Telethon API Documentation](https://lonamiwebs.github.io/Telethon/)
   - [Telegram API Introduction](https://towardsdatascience.com/introduction-to-the-telegram-api-b0cd220dbed2)
   - [How to Create and Deploy a Telegram Bot](https://djangostars.com/blog/how-to-create-and-deploy-a-telegram-bot/)
-- [Number Formatting](https://mkaz.blog/code/python-string-format-cookbook/)
 
 ## JavaScript
 
 - d3.js
   - [Hitchhiker's Guide to d3.js](https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a)
+
+## Rust
+
+- Language
+  - [The Rust Reference](https://doc.rust-lang.org/stable/reference/index.html)
+  - [The Rustonomicon](https://doc.rust-lang.org/stable/nomicon/index.html) - The Dark Arts of Unsafe Rust
+  - [Hands-On Concurrency with Rust: Confidently build memory-safe, parallel, and efficient software in Rust](https://www.amazon.com/dp/1788399978/ref=as_li_ss_il?tag=book0359-20&ie=UTF8) - Book
+  - [Hands-On Data Structures and Algorithms with Rust](https://www.amazon.com/dp/178899552X/ref=as_li_ss_il?tag=book0359-20&ie=UTF8) - Book
+  - [Programming Rust: Fast, Safe Systems Development](https://www.goodreads.com/book/show/25550614-programming-rust) - Book
+- IDE
+  - [Debugging Rust in VSCode](https://jason-williams.co.uk/debugging-rust-in-vscode)
+- Web-Frameworks
+  - [Choosing a Rust Web Framework: 2020 Edition](https://www.lpalmieri.com/posts/2020-07-04-choosing-a-rust-web-framework-2020-edition/)
+- Blog
+  - [Scala Developer Journey Into Rust](http://blog.madhukaraphatak.com/rust-scala-part-1/)
 
 ## Others
 
@@ -302,7 +352,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [Awesome Java](https://github.com/akullpp/awesome-java)
   - [Helsinki MOOC](http://mooc.fi/courses/2013/programming-part-1/)
 
-## Unread
+## Reading List
 
 - [Improve Your Python: Understanding Unit Testing](https://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/)
 - [http://blog.adnansiddiqi.me/getting-started-with-apache-kafka-in-python/](http://blog.adnansiddiqi.me/getting-started-with-apache-kafka-in-python/)
