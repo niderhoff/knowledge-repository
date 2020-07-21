@@ -151,6 +151,7 @@ knowledge repository with learning resources, examples, links for various data s
       - [Tensorboard Distributions and histograms (stackoverflow)](https://stackoverflow.com/questions/42425858/tensorboard-distributions-and-histograms-with-keras-and-fit-generator)
   - Interpret & Visualize Models
     - [Interpreting Tensorflow models with tf-explain](https://gilberttanner.com/blog/interpreting-tensorflow-model-with-tf-explain)
+    - [gradio: TensorFlow UI Components](https://github.com/gradio-app/gradio)
 - [Keras (old)](http://keras.io/)
   - Learn
     - [Deep Learning with Python (Francois Chollet)](https://www.manning.com/books/deep-learning-with-python) - [Code](https://github.com/fchollet/deep-learning-with-python-notebooks)
