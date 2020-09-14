@@ -308,18 +308,30 @@ knowledge repository with learning resources, examples, links for various data s
   - [Behance](https://www.behance.net/)
   - [awesome-inspire](https://github.com/NoahBuscher/Inspire)
 
-## Backend
+## Backend / Deployment / Distributed Systems
 
 - Data Serialization
   - [Flexbuffers](https://google.github.io/flatbuffers/flexbuffers.html)
   - [Hackernews Discussion](https://news.ycombinator.com/item?id=23588558)
   - Protobuf
     - [Apache Arrow Flight](https://arrow.apache.org/blog/2019/10/13/introducing-arrow-flight/) faster gRPC implementation
+- Docker
+  - [Dockerfile Linting](https://github.com/goldbergyoni/nodebestpractices/blob/master/sections/docker/lint-dockerfile.md)
+  - [Clean build-time secrets](https://github.com/goldbergyoni/nodebestpractices/blob/master/sections/docker/avoid-build-time-secrets.md)
+  - [Using multi-stage builds](https://github.com/goldbergyoni/nodebestpractices/blob/master/sections/docker/multi_stage_builds.md)
 - Kubernetes
   - [10 most common mistakes using kubernetes](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
   - [Common mistakes using Kubernetes (hackernews)](https://news.ycombinator.com/item?id=23211325)
   - [A gentle Introduction to Kubernetes](https://medium.com/faun/a-gentle-introduction-to-kubernetes-4961e443ba26)
+  - [Kubernetes YAML Generator](https://k8syaml.com/)
+  - [Pulumi - Kubernetes YAML SDK / Bindings for ts, python, go, ...](https://www.pulumi.com/kubernetes/)
   - [Validating Kubernetes YAML for best practice and policies](https://learnk8s.io/validating-kubernetes-yaml)
+  - Workflows / Pipelines / Streaming / Message Systems
+    - [Apache Airflow with Kubernetes Executor and MiniKube](https://marclamberti.com/blog/airflow-kubernetes-executor/#Introducing_Apache_Airflow_with_Kubernetes_Executor)
+    - KEDA
+      - [KEDA jobs with Azure Store Queues](https://github.com/tomconte/sample-keda-queue-jobs)
+    - Celery
+      - [Celery + Kubernetes](https://hackernoon.com/https-medium-com-talperetz24-scaling-effectively-when-kubernetes-met-celery-e6abd7ce4fed)
 - nginx
   - [nginx config generator ui](https://www.digitalocean.com/community/tools/nginx)
 - Caching / In-Memory DB
@@ -362,6 +374,7 @@ knowledge repository with learning resources, examples, links for various data s
     - [Python Type Hints](https://kunigami.blog/2019/12/26/python-type-hints/)
 - Async
   - [Async Python is not faster](http://calpaterson.com/async-python-is-not-faster.html) - HTTP server benchmarks
+  - [Sync vs. Async Python: What is the Difference?](https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference)
   - [Asynco IO in Python: A Complete Walkthrough](https://realpython.com/async-io-python/)
   - [Concurrency Python discussion (hackernews)](https://news.ycombinator.com/item?id=23289563)
 - Django
