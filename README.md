@@ -40,8 +40,20 @@ knowledge repository with learning resources, examples, links for various data s
   - [Things every programmer should know](https://github.com/mr-mig/every-programmer-should-know)
   - [Naming Conventions](https://www.wikiwand.com/en/Naming_convention_(programming))
   - [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon)
+  - [Computer Science for Engineers](https://blog.robertelder.org/computer-science-for-engineers/)
+  - [Must Read books for Developers without CS Degree (HN)](https://news.ycombinator.com/item?id=22803780)
+  - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
+  - Algorithms and Data Structures (Coding Interviews)
+    - [leet Code](https://leetcode.com/?cong=true)
+    - [hackerrank](https://www.hackerrank.com/)
+    - [Coding Interview University](https://github.com/jwasham/coding-interview-university) multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
+    - [All algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
+    - [All algorithms implemented in js](https://github.com/trekhleb/javascript-algorithms)
+    - [How to learn data structures and algorithms for beginners](https://hackernoon.com/how-to-learn-data-structures-and-algorithms-an-ultimate-guide-for-beginners-jy2532z8)
+    - [Binary Search Algorithm (wikipedia)](https://en.wikipedia.org/wiki/Binary_search_algorithm#Recursive) Wikipedia is actually not a bad resource to learn about algorithms
   - Software Architecture
     - [Software Architecture Patterns](https://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf) - Free O'Reilly Book
+    - [Design Patterns (wikipedia)](https://en.wikipedia.org/wiki/Design_Patterns) The original OOP book
 - Techniques
   - [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
 - Git
@@ -86,6 +98,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
   - [Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
   - [Precision and Recall](https://www.wikiwand.com/en/Precision_and_recall)
+  - [Pattern Recognition and Machine Learning (Code examples)](https://github.com/ctgk/PRML) Python codes implementing algorithms described in Bishop's book "Pattern Recognition and Machine Learning"
 - MOOC
   - [fast.ai](http://www.fast.ai/) - Practical Deep Learning for Coders
   - [Google ML Crash Crouse](https://developers.google.com/machine-learning/crash-course/) - very crash course
@@ -97,6 +110,9 @@ knowledge repository with learning resources, examples, links for various data s
   - [Deep Learning with Google (Udacity)](https://de.udacity.com/course/deep-learning--ud730)
   - [Dive into Deep Learning (berkeley)](http://d2l.ai/chapter_introduction/index.html) Theory & Practice
   - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) Open Machine Learning Course (unsupervised learning, tress, feature engineering, boosting etc. - no deep learning)
+- Prepping the Interview
+  - [Data Science Interview Questions](https://github.com/alexeygrigorev/data-science-interviews)
+  - [160 Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
 - Logistic Regression
   - [Data Science Simplified Part 11: Logistic Regression](https://towardsdatascience.com/data-science-simplified-part-11-logistic-regression-5ae8d994bf0e)
 - Neural Networks / Deep Learning
@@ -303,6 +319,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [10 most common mistakes using kubernetes](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
   - [Common mistakes using Kubernetes (hackernews)](https://news.ycombinator.com/item?id=23211325)
   - [A gentle Introduction to Kubernetes](https://medium.com/faun/a-gentle-introduction-to-kubernetes-4961e443ba26)
+  - [Validating Kubernetes YAML for best practice and policies](https://learnk8s.io/validating-kubernetes-yaml)
 - nginx
   - [nginx config generator ui](https://www.digitalocean.com/community/tools/nginx)
 - Caching / In-Memory DB
@@ -313,23 +330,36 @@ knowledge repository with learning resources, examples, links for various data s
 - Video Streaming
   - [Building a media streaming server using go and hls protocol](https://hackernoon.com/building-a-media-streaming-server-using-go-and-hls-protocol-j85h3wem)
 
-## Python (non-datascience)
+## Python (general python programming & non-datascience)
 
-- Courses
+- Courses / Books
   - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/) - opinionated guide
   - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
   - [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
+  - [Fluent Python](https://github.com/fluentpython)
+  - [Effective Python](https://effectivepython.com/)
+- Language Features, Paradigms, Abstractions, Advance Python
+  - [Python 3 Patterns Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Singleton.html)
+  - [Functional Programming in Python](https://www.oreilly.com/programming/free/files/functional-programming-python.pdf)
+  - [Composing Programs](https://www.composingprograms.com/)
   - [Object Oriented Programming](https://python.swaroopch.com/oop.html)
+  - [What the fck PythoN!](https://github.com/satwikkansal/wtfpython/blob/master/README.md) Exploring and understanding Python through surprising snippets.
+  - [The Little book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
+  - [pytudes](https://github.com/norvig/pytudes) Python programs, usually short, for perfecting particular programming skills. by *Peter Norvig*
+  - [pysanity](https://github.com/rednafi/pysanity/) Opinionated Coding Guidelines/philosophy
 - Basics
   - [Using Config files](https://martin-thoma.com/configuration-files-in-python/) - YAML, JSON, etc.
   - [Number Formatting](https://mkaz.blog/code/python-string-format-cookbook/)
   - [Example Google Style Python Docstrings](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
+- Algorithms and Data Structures
+  - [All algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 - Tooling (Testing/Linting/Runtimes/Compiler)
   - [Numba: A High Performance Python (JIT) compiler](http://numba.pydata.org/)
   - [Python resources for development](https://gist.github.com/AlmasM/8a05355dbd84029eae03f92c5c61038f)
   - [Hypermodern Python Dev Environment](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
   - Type Checking
-  - [Our Journey to type checking..](https://dropbox.tech/application/our-journey-to-type-checking-4-million-lines-of-python) - Dropbox Blog
+    - [Our Journey to type checking..](https://dropbox.tech/application/our-journey-to-type-checking-4-million-lines-of-python) - Dropbox Blog
+    - [Python Type Hints](https://kunigami.blog/2019/12/26/python-type-hints/)
 - Async
   - [Async Python is not faster](http://calpaterson.com/async-python-is-not-faster.html) - HTTP server benchmarks
   - [Asynco IO in Python: A Complete Walkthrough](https://realpython.com/async-io-python/)
@@ -352,19 +382,22 @@ knowledge repository with learning resources, examples, links for various data s
 
 ## JavaScript
 
+- Algorithms and Data Structures
+  - [All algorithms implemented in js](https://github.com/trekhleb/javascript-algorithms)
 - d3.js
   - [Hitchhiker's Guide to d3.js](https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a)
 
 ## Rust
 
 - Language
+  - [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) Official Book
+  - [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/) Companion Examples to the Official Book
   - [The Rust Reference](https://doc.rust-lang.org/stable/reference/index.html)
   - [The Rustonomicon](https://doc.rust-lang.org/stable/nomicon/index.html) - The Dark Arts of Unsafe Rust
+  - [easy rust](https://github.com/Dhghomon/easy_rust)
   - [Hands-On Concurrency with Rust: Confidently build memory-safe, parallel, and efficient software in Rust](https://www.amazon.com/dp/1788399978/ref=as_li_ss_il?tag=book0359-20&ie=UTF8) - Book
   - [Hands-On Data Structures and Algorithms with Rust](https://www.amazon.com/dp/178899552X/ref=as_li_ss_il?tag=book0359-20&ie=UTF8) - Book
   - [Programming Rust: Fast, Safe Systems Development](https://www.goodreads.com/book/show/25550614-programming-rust) - Book
-- IDE
-  - [Debugging Rust in VSCode](https://jason-williams.co.uk/debugging-rust-in-vscode)
 - Web-Frameworks
   - [Choosing a Rust Web Framework: 2020 Edition](https://www.lpalmieri.com/posts/2020-07-04-choosing-a-rust-web-framework-2020-edition/)
 - Blog
@@ -372,8 +405,19 @@ knowledge repository with learning resources, examples, links for various data s
 
 ## Others
 
-- C
-  - [Learn C the Hard Way](https://learncodethehardway.org/c/)
+- C/C++
+  - Learning the Language
+    - [Learn C the Hard Way](https://learncodethehardway.org/c/)
+    - [Modern C](https://modernc.gforge.inria.fr/)
+    - [Learn C in Y minutes](https://learnxinyminutes.com/docs/c/)
+    - [Learn C++ ni Y minutes](https://learnxinyminutes.com/docs/c++/)
+  - Safety
+    - [awesome-saffety-critical](https://github.com/stanislaw/awesome-safety-critical/blob/master/README.md#coding-guidelines) list of resources about programming practices for writing safety-critical software
+  - Testing
+    - [GoogleTest](https://github.com/google/googletest/) unit test framework
+  - Tooling
+    - [libc](https://westurner.github.io/tools/#libc)
+    - [xeus cling](https://github.com/jupyter-xeus/xeus-cling) jupyter c++ kernel
 - Go
   - [Learn Go by porting a medium-sized web backend from Python](http://benhoyt.com/writings/learning-go/)
 - Haskell
