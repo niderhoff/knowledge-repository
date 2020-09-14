@@ -54,6 +54,7 @@ knowledge repository with learning resources, examples, links for various data s
   - Software Architecture
     - [Software Architecture Patterns](https://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf) - Free O'Reilly Book
     - [Design Patterns (wikipedia)](https://en.wikipedia.org/wiki/Design_Patterns) The original OOP book
+    - [The C4 Model for visualizing software architecture](https://c4model.com/) "Context, Containers, Components and Code"
 - Techniques
   - [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
 - Git
@@ -72,6 +73,7 @@ knowledge repository with learning resources, examples, links for various data s
 - [Frontend Developer Beginner Resources](https://github.com/thedaviddias/Resources-Front-End-Beginner)
 - [Front-End Handbook 2017](https://github.com/FrontendMasters/front-end-handbook-2017)
 - [Path to a free self-taught education in Data Science!](https://github.com/ossu/data-science)
+- [Date Engineer Roadmap 2020](https://github.com/datastacktv/data-engineer-roadmap)
 
 ## Data Science
 
@@ -110,6 +112,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [Deep Learning with Google (Udacity)](https://de.udacity.com/course/deep-learning--ud730)
   - [Dive into Deep Learning (berkeley)](http://d2l.ai/chapter_introduction/index.html) Theory & Practice
   - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) Open Machine Learning Course (unsupervised learning, tress, feature engineering, boosting etc. - no deep learning)
+  - [MIT: Computational Thinking](https://www.youtube.com/playlist?list=PLP8iPy9hna6Q2Kr16aWPOKE0dz9OnsnIJ) Math / CV / Julia class with 3blue1brown
 - Prepping the Interview
   - [Data Science Interview Questions](https://github.com/alexeygrigorev/data-science-interviews)
   - [160 Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
@@ -148,12 +151,20 @@ knowledge repository with learning resources, examples, links for various data s
     - [Bagging using xgboost](https://github.com/daxiongshu/tradeshift-text-classification)
   - [catboost](https://github.com/catboost/catboost) A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU
   - [lightgbm](https://github.com/microsoft/LightGBM) A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
-- TensorFlow & new Keras
+- TensorFlow & new Keras (since TF 2.0)
   - Data Ingest
     - [Train-Test Split with ImageDataGenerator](https://stackoverflow.com/questions/42443936/keras-split-train-test-set-when-using-imagedatagenerator)
   - Learn
     - [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
     - [TensorFlow for Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/)
+    - [TensorFlow Machine Learning Curriculum (official)](https://www.tensorflow.org/resources/learn-ml)
+    - [TensorFlow Developer Certificate](https://www.tensorflow.org/certificate)
+    - [Generating cooking recipes using TensorFlow and LSTM Recurrent Neural Network: A step-by-step guide](https://github.com/trekhleb/machine-learning-experiments/blob/master/assets/recipes_generation.en.md) This article contains details of how the LSTM model was actually trained on Python using TensorFlow 2 with Keras API.
+    - [TensorFlow Roadmap](https://github.com/instillai/TensorFlow-Roadmap#2) 📡 Organized & Useful Resources about Deep Learning with TensorFlow
+    - [Inside TensorFlow](https://engineeringblog.yelp.com/2019/11/inside-tensorflow.html)
+  - TF 1.X -> 2.X
+    - [TF 2.0 AutoGraph & Eager mode explained](https://medium.com/ai%C2%B3-theory-practice-business/tensorflow-1-0-vs-2-0-part-1-computational-graphs-4bb6e31c1a0f)
+    - [Effective TensorFlow 2](https://www.tensorflow.org/guide/effective_tf2)
   - Frameworks & Integration
     - [ludwig](https://github.com/uber/ludwig) Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
   - Object Detection
@@ -163,12 +174,17 @@ knowledge repository with learning resources, examples, links for various data s
     - [word2vec (TensorFlow Tutorial)](https://www.tensorflow.org/tutorials/word2vec)
     - [CNN for Text Classifcation (Kim 2014)](https://github.com/dennybritz/cnn-text-classification-tf)
   - Tooling
+    - Production / Deployment
+      - [TFRT](https://github.com/tensorflow/runtime) A performant and modular runtime for TensorFlow
+      - tensorflowjs
+        - [Deep Learning in your Browser - a brisk guide](https://towardsdatascience.com/deep-learning-in-your-browser-a-brisk-guide-ca06c2198846)
+      - [TensorFlow Lite](https://www.tensorflow.org/lite/)
     - Tensorboard
       - [Tensorboard Distributions and histograms (stackoverflow)](https://stackoverflow.com/questions/42425858/tensorboard-distributions-and-histograms-with-keras-and-fit-generator)
   - Interpret & Visualize Models
     - [Interpreting Tensorflow models with tf-explain](https://gilberttanner.com/blog/interpreting-tensorflow-model-with-tf-explain)
     - [gradio: TensorFlow UI Components](https://github.com/gradio-app/gradio)
-- [Keras (old)](http://keras.io/)
+- [Keras (pre TensorFlow)](http://keras.io/)
   - Learn
     - [Deep Learning with Python (Francois Chollet)](https://www.manning.com/books/deep-learning-with-python) - [Code](https://github.com/fchollet/deep-learning-with-python-notebooks)
     - [Examples](https://github.com/keras-team/keras/tree/master/examples)
@@ -259,10 +275,6 @@ knowledge repository with learning resources, examples, links for various data s
 
 - Distributed Learning
   - [Ray](https://github.com/ray-project/ray) A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning libr…
-- TensorFlow
-  - tensorflowjs
-    - [Deep Learning in your Browser - a brisk guide](https://towardsdatascience.com/deep-learning-in-your-browser-a-brisk-guide-ca06c2198846)
-  - [TensorFlow Lite](https://www.tensorflow.org/lite/)
 
 ### Tools
 
@@ -411,6 +423,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [Hands-On Concurrency with Rust: Confidently build memory-safe, parallel, and efficient software in Rust](https://www.amazon.com/dp/1788399978/ref=as_li_ss_il?tag=book0359-20&ie=UTF8) - Book
   - [Hands-On Data Structures and Algorithms with Rust](https://www.amazon.com/dp/178899552X/ref=as_li_ss_il?tag=book0359-20&ie=UTF8) - Book
   - [Programming Rust: Fast, Safe Systems Development](https://www.goodreads.com/book/show/25550614-programming-rust) - Book
+  - [rustlings](https://github.com/rust-lang/rustlings) Small exercises to get you used to reading and writing Rust code!
 - Web-Frameworks
   - [Choosing a Rust Web Framework: 2020 Edition](https://www.lpalmieri.com/posts/2020-07-04-choosing-a-rust-web-framework-2020-edition/)
 - Blog
