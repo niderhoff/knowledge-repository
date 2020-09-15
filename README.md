@@ -167,6 +167,9 @@ knowledge repository with learning resources, examples, links for various data s
     - [Effective TensorFlow 2](https://www.tensorflow.org/guide/effective_tf2)
   - Frameworks & Integration
     - [ludwig](https://github.com/uber/ludwig) Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
+    - TensorOps Arithmetic Helpers / DSL
+      - [TF-Coder](https://blog.tensorflow.org/2020/08/introducing-tensorflow-coder-tool.html) Inductive Programming Library approach to generate (simple) TF-Expressions from Input & Output Data pairs
+      - [Einops](https://github.com/arogozhnikov/einops) DSL with readable, high-level abstractions for tensor operations. Supports numpy, pytorch, tensorflow, and others.
   - Object Detection
     - [Hand Detector (Egohands Dataset)](https://towardsdatascience.com/how-to-build-a-real-time-hand-detector-using-neural-networks-ssd-on-tensorflow-d6bac0e4b2ce) - [Code](https://github.com/victordibia/handtracking)
   - NLP
