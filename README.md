@@ -55,6 +55,7 @@ knowledge repository with learning resources, examples, links for various data s
     - [Software Architecture Patterns](https://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf) - Free O'Reilly Book
     - [Design Patterns (wikipedia)](https://en.wikipedia.org/wiki/Design_Patterns) The original OOP book
     - [The C4 Model for visualizing software architecture](https://c4model.com/) "Context, Containers, Components and Code"
+    - [Become a better Software Architect](https://github.com/justinamiller/SoftwareArchitect)
 - Techniques
   - [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
 - Git
@@ -74,6 +75,10 @@ knowledge repository with learning resources, examples, links for various data s
 - [Front-End Handbook 2017](https://github.com/FrontendMasters/front-end-handbook-2017)
 - [Path to a free self-taught education in Data Science!](https://github.com/ossu/data-science)
 - [Date Engineer Roadmap 2020](https://github.com/datastacktv/data-engineer-roadmap)
+- [DeepMind Curated Resource List](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
+- [Machine Learning Roadmap 2020](https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva)
+- [Machine Learning Mindmap](https://github.com/dformoso/machine-learning-mindmap)
+- [Machine Learning Roadmap](https://github.com/mrdbourke/machine-learning-roadmap)
 
 ## Data Science
 
@@ -90,6 +95,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [Karpathy Blog](http://karpathy.github.io/2015/10/25/selfie/)
   - [Francois Chollet (keras) Blog](https://blog.keras.io/index.html)
   - [Dataquest](https://www.dataquest.io/blog/)
+  - [wildml.com](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/)
 - Papers
   - [Papers With Code](https://paperswithcode.com/sota) - Browse State-of-the-Art Machine Learning Papers
 
@@ -112,13 +118,20 @@ knowledge repository with learning resources, examples, links for various data s
   - [Deep Learning with Google (Udacity)](https://de.udacity.com/course/deep-learning--ud730)
   - [Dive into Deep Learning (berkeley)](http://d2l.ai/chapter_introduction/index.html) Theory & Practice
   - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) Open Machine Learning Course (unsupervised learning, tress, feature engineering, boosting etc. - no deep learning)
+  - [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton) deeplearning.ai, Andrew Ng
+  - [Coursera TensorFlow in Practice](https://www.coursera.org/specializations/tensorflow-in-practice)
+  - [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/) bridge the gap from training machine learning models to deploying AI systems in the real world.
   - [MIT: Computational Thinking](https://www.youtube.com/playlist?list=PLP8iPy9hna6Q2Kr16aWPOKE0dz9OnsnIJ) Math / CV / Julia class with 3blue1brown
 - Prepping the Interview
   - [Data Science Interview Questions](https://github.com/alexeygrigorev/data-science-interviews)
   - [160 Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
 - Logistic Regression
   - [Data Science Simplified Part 11: Logistic Regression](https://towardsdatascience.com/data-science-simplified-part-11-logistic-regression-5ae8d994bf0e)
+  - [Instrumental Variables](http://blog.shakirm.com/2018/10/machine-learning-trick-of-the-day-8-instrumental-thinking/)
+- Decision Trees
+  - [Random Forest for complete beginners](https://victorzhou.com/blog/intro-to-random-forests/
 - Neural Networks / Deep Learning
+  - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) Andrej Karpathy
   - [deeplearningbook](http://www.deeplearningbook.org/) THE book by Bengio/GoodFellow/Courville. From NN to autoencoders..
   - [Deep Learning in Neural Networks: An Overview (paywall)](https://www.sciencedirect.com/science/article/pii/S0893608014002135)
   - [Dive into Deep Learning](https://d2l.ai/)
@@ -162,6 +175,15 @@ knowledge repository with learning resources, examples, links for various data s
     - [Generating cooking recipes using TensorFlow and LSTM Recurrent Neural Network: A step-by-step guide](https://github.com/trekhleb/machine-learning-experiments/blob/master/assets/recipes_generation.en.md) This article contains details of how the LSTM model was actually trained on Python using TensorFlow 2 with Keras API.
     - [TensorFlow Roadmap](https://github.com/instillai/TensorFlow-Roadmap#2) 📡 Organized & Useful Resources about Deep Learning with TensorFlow
     - [Inside TensorFlow](https://engineeringblog.yelp.com/2019/11/inside-tensorflow.html)
+  - Training
+    - [Learning Rate Schedules & Decay](https://www.pyimagesearch.com/2019/07/22/keras-learning-rate-schedules-and-decay/)
+    - [How do I find variable names and values in a checkpoint](https://stackoverflow.com/questions/38218174/how-do-i-find-the-variable-names-and-values-that-are-saved-in-a-checkpoint)
+    - [keras-tuner: hyperparameter optimization](https://keras-team.github.io/keras-tuner/#keras-tuner-documentation)
+    - Tensorboard
+      - [Tensorboard Distributions and histograms (stackoverflow)](https://stackoverflow.com/questions/42425858/tensorboard-distributions-and-histograms-with-keras-and-fit-generator)
+      - [How to show all my images in tensorboard](https://stackoverflow.com/questions/45584557/how-to-show-all-my-images-in-tensorboard)
+  - Inference
+    - [Improve CPU Inference Performance with intel MKL Libraries](https://software.intel.com/content/www/us/en/develop/articles/maximize-tensorflow-performance-on-cpu-considerations-and-recommendations-for-inference.html)
   - TF 1.X -> 2.X
     - [TF 2.0 AutoGraph & Eager mode explained](https://medium.com/ai%C2%B3-theory-practice-business/tensorflow-1-0-vs-2-0-part-1-computational-graphs-4bb6e31c1a0f)
     - [Effective TensorFlow 2](https://www.tensorflow.org/guide/effective_tf2)
@@ -176,14 +198,11 @@ knowledge repository with learning resources, examples, links for various data s
     - [CNN for Text Classification](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/#more-452)
     - [word2vec (TensorFlow Tutorial)](https://www.tensorflow.org/tutorials/word2vec)
     - [CNN for Text Classifcation (Kim 2014)](https://github.com/dennybritz/cnn-text-classification-tf)
-  - Tooling
-    - Production / Deployment
+ - Production / Deployment
       - [TFRT](https://github.com/tensorflow/runtime) A performant and modular runtime for TensorFlow
       - tensorflowjs
         - [Deep Learning in your Browser - a brisk guide](https://towardsdatascience.com/deep-learning-in-your-browser-a-brisk-guide-ca06c2198846)
       - [TensorFlow Lite](https://www.tensorflow.org/lite/)
-    - Tensorboard
-      - [Tensorboard Distributions and histograms (stackoverflow)](https://stackoverflow.com/questions/42425858/tensorboard-distributions-and-histograms-with-keras-and-fit-generator)
   - Interpret & Visualize Models
     - [Interpreting Tensorflow models with tf-explain](https://gilberttanner.com/blog/interpreting-tensorflow-model-with-tf-explain)
     - [gradio: TensorFlow UI Components](https://github.com/gradio-app/gradio)
@@ -215,6 +234,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [Machine Learning Class Notes Lecture 16: Anomaly Detection¶](https://machine-learning-class-notes.readthedocs.io/en/latest/lecture16.html)
   - [arXiv: Model Selection for Anomaly Detection](https://arxiv.org/abs/1707.03909)
 - Computer Vision
+  - [What is optical flow and why does it matter in deep learning](https://medium.com/swlh/what-is-optical-flow-and-why-does-it-matter-in-deep-learning-b3278bb205b5)
   - Action Recognition
     - [awesome action recognition](https://github.com/jinwchoi/awesome-action-recognition)
     - [Real-time Action detection demo for the work Actor Conditioned Attention Maps](https://github.com/oulutan/ACAM_Demo)
@@ -399,6 +419,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [Django-celery (pypi)](https://pypi.org/project/django-celery/) - Celery Integration for Django
   - [Django-rq](https://github.com/rq/django-rq) - Django integration for RQ (Redis Queue)
 - Databases
+  - [Introduction to Databases (Stanford)](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
   - [Better PostgreSQL testing with Python: announcing pytest-pqsql and pqmock](https://technology.cloverhealth.com/better-postgresql-testing-with-python-announcing-pytest-pgsql-and-pgmock-d0c569d0602a?gi=74ffda2bea7c)
   - [pytest-postgresql 2.4.0 (pypi)](https://pypi.org/project/pytest-postgresql/)
   - [Database testing in python, postgresql (stackoverflow)](https://stackoverflow.com/questions/2723406/database-testing-in-python-postgresql)
