@@ -457,10 +457,11 @@ knowledge repository with learning resources, examples, links for various data s
 
 - C/C++
   - Learning the Language
+    - [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
     - [Learn C the Hard Way](https://learncodethehardway.org/c/)
     - [Modern C](https://modernc.gforge.inria.fr/)
     - [Learn C in Y minutes](https://learnxinyminutes.com/docs/c/)
-    - [Learn C++ ni Y minutes](https://learnxinyminutes.com/docs/c++/)
+    - [Learn C++ in Y minutes](https://learnxinyminutes.com/docs/c++/)
   - Safety
     - [awesome-saffety-critical](https://github.com/stanislaw/awesome-safety-critical/blob/master/README.md#coding-guidelines) list of resources about programming practices for writing safety-critical software
   - Testing
