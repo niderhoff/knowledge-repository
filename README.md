@@ -18,8 +18,8 @@ knowledge repository with learning resources, examples, links for various data s
     - [R](#r)
   - [Big Data](#big-data)
   - [Frontend](#frontend)
-  - [Backend](#backend)
-  - [Python (non-datascience)](#python-non-datascience)
+  - [Backend / Deployment / Distributed Systems](#backend--deployment--distributed-systems)
+  - [Python (general python programming & non-datascience)](#python-general-python-programming--non-datascience)
   - [JavaScript](#javascript)
   - [Rust](#rust)
   - [Others](#others)
@@ -65,6 +65,10 @@ knowledge repository with learning resources, examples, links for various data s
 - CLI
   - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
   - [htop explained](https://peteris.rocks/blog/htop/)
+  - Bas
+    - [Conditional constructs](https://www.gnu.org/software/bash/manual/html_node/Conditional-Constructs.html) if statements
+- Tooling
+- [Analysis-tools.dev](https://analysis-tools.dev/) Compare 483+ Analysis tools for all Languages
 
 ## Meta-Lists
 
@@ -129,15 +133,17 @@ knowledge repository with learning resources, examples, links for various data s
   - [Data Science Simplified Part 11: Logistic Regression](https://towardsdatascience.com/data-science-simplified-part-11-logistic-regression-5ae8d994bf0e)
   - [Instrumental Variables](http://blog.shakirm.com/2018/10/machine-learning-trick-of-the-day-8-instrumental-thinking/)
 - Decision Trees
-  - [Random Forest for complete beginners](https://victorzhou.com/blog/intro-to-random-forests/
+  - [Random Forest for complete beginners](<https://victorzhou.com/blog/intro-to-random-forests/>
 - Neural Networks / Deep Learning
   - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) Andrej Karpathy
   - [deeplearningbook](http://www.deeplearningbook.org/) THE book by Bengio/GoodFellow/Courville. From NN to autoencoders..
   - [Deep Learning in Neural Networks: An Overview (paywall)](https://www.sciencedirect.com/science/article/pii/S0893608014002135)
   - [Dive into Deep Learning](https://d2l.ai/)
   - CNN
+    - ["The Best explanation of NN on the internet"](https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8)
     - [Beginner's Guide to Understanding CNN](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
     - [100 Best CNN Videos](http://meta-guide.com/videography/100-best-convolutional-neural-network-videos)
+    - [CNN Explainer](https://github.com/poloclub/cnn-explainer) An interactive visualization system designed to help non-experts learn about Convolutional Neural Networks (CNNs)
   - Generative Adversarial Networks
     - [deeplearning4j Introduction](https://getpocket.com/a/read/1994338110)
 - Unsupervised Learning
@@ -178,7 +184,10 @@ knowledge repository with learning resources, examples, links for various data s
   - Training
     - [Learning Rate Schedules & Decay](https://www.pyimagesearch.com/2019/07/22/keras-learning-rate-schedules-and-decay/)
     - [How do I find variable names and values in a checkpoint](https://stackoverflow.com/questions/38218174/how-do-i-find-the-variable-names-and-values-that-are-saved-in-a-checkpoint)
-    - [keras-tuner: hyperparameter optimization](https://keras-team.github.io/keras-tuner/#keras-tuner-documentation)
+    - Hyperparameter Optimization
+      - [keras-tuner: hyperparameter optimization](https://keras-team.github.io/keras-tuner/#keras-tuner-documentation)
+      - [hyperas](https://github.com/maxpumperla/hyperas) wrapper around hyperopt for faster prototyping with keras models
+      - [autokeras](https://autokeras.com/) AutoML system based on Keras
     - Tensorboard
       - [Tensorboard Distributions and histograms (stackoverflow)](https://stackoverflow.com/questions/42425858/tensorboard-distributions-and-histograms-with-keras-and-fit-generator)
       - [How to show all my images in tensorboard](https://stackoverflow.com/questions/45584557/how-to-show-all-my-images-in-tensorboard)
@@ -198,14 +207,15 @@ knowledge repository with learning resources, examples, links for various data s
     - [CNN for Text Classification](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/#more-452)
     - [word2vec (TensorFlow Tutorial)](https://www.tensorflow.org/tutorials/word2vec)
     - [CNN for Text Classifcation (Kim 2014)](https://github.com/dennybritz/cnn-text-classification-tf)
- - Production / Deployment
-      - [TFRT](https://github.com/tensorflow/runtime) A performant and modular runtime for TensorFlow
-      - tensorflowjs
-        - [Deep Learning in your Browser - a brisk guide](https://towardsdatascience.com/deep-learning-in-your-browser-a-brisk-guide-ca06c2198846)
-      - [TensorFlow Lite](https://www.tensorflow.org/lite/)
-  - Interpret & Visualize Models
-    - [Interpreting Tensorflow models with tf-explain](https://gilberttanner.com/blog/interpreting-tensorflow-model-with-tf-explain)
-    - [gradio: TensorFlow UI Components](https://github.com/gradio-app/gradio)
+- Production / Deployment
+  - [TFRT](https://github.com/tensorflow/runtime) A performant and modular runtime for TensorFlow
+  - tensorflowjs
+    - [Deep Learning in your Browser - a brisk guide](https://towardsdatascience.com/deep-learning-in-your-browser-a-brisk-guide-ca06c2198846)
+  - [TensorFlow Lite](https://www.tensorflow.org/lite/)
+- Interpret & Visualize Models
+  - [Interpreting Tensorflow models with tf-explain](https://gilberttanner.com/blog/interpreting-tensorflow-model-with-tf-explain)
+  - [gradio: TensorFlow UI Components](https://github.com/gradio-app/gradio)
+  - [Tensporspace](https://github.com/tensorspace-team/tensorspace) neural network 3D visualization framework built with tensorflowjs
 - [Keras (pre TensorFlow)](http://keras.io/)
   - Learn
     - [Deep Learning with Python (Francois Chollet)](https://www.manning.com/books/deep-learning-with-python) - [Code](https://github.com/fchollet/deep-learning-with-python-notebooks)
@@ -293,6 +303,9 @@ knowledge repository with learning resources, examples, links for various data s
   - Environments
     - [AirSim](https://github.com/microsoft/AirSim) Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
     - [RLTrader](https://github.com/notadamking/RLTrader) A cryptocurrency trading environment using deep reinforcement learning and OpenAI's gym
+    - [SafetyGym](https://openai.com/blog/safety-gym/) OpenAPI Gym + Safety constraints
+- Novelty Algorithm
+  - [AutoML Zero](https://github.com/google-research/google-research/tree/master/automl_zero) use Evolutionary Search to discover ML algorithms from scratch using only basic math operations
 
 ### Data Science Deployment / Production
 
@@ -407,6 +420,7 @@ knowledge repository with learning resources, examples, links for various data s
   - Type Checking
     - [Our Journey to type checking..](https://dropbox.tech/application/our-journey-to-type-checking-4-million-lines-of-python) - Dropbox Blog
     - [Python Type Hints](https://kunigami.blog/2019/12/26/python-type-hints/)
+    - [Monkeytype](https://github.com/instagram/MonkeyType) generates type hints by collecting runtime types
 - Async
   - [Async Python is not faster](http://calpaterson.com/async-python-is-not-faster.html) - HTTP server benchmarks
   - [Sync vs. Async Python: What is the Difference?](https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference)
@@ -474,9 +488,13 @@ knowledge repository with learning resources, examples, links for various data s
 - Haskell
   - [Learn You a Haskell for Great Good](http://learnyouahaskell.com/)
   - [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
-- Java
+- Java / Scala
   - [Awesome Java](https://github.com/akullpp/awesome-java)
   - [Helsinki MOOC](http://mooc.fi/courses/2013/programming-part-1/)
+  - JSON / Swagger
+    - Jackson
+      - [Swagger and polymorphic type handling with Jackson](http://yysource.com/2016/05/swagger-and-polymorphic-type-handling-with-jackson/)
+      - [Looking for a good example of polymoprrhic serialization/deserialization using jackson](https://stackoverflow.com/questions/17135166/looking-for-a-good-example-of-polymorphic-serialization-deserialization-using-ja/26720380#26720380)
 
 ## Reading List
 
