@@ -52,10 +52,12 @@ knowledge repository with learning resources, examples, links for various data s
     - [How to learn data structures and algorithms for beginners](https://hackernoon.com/how-to-learn-data-structures-and-algorithms-an-ultimate-guide-for-beginners-jy2532z8)
     - [Binary Search Algorithm (wikipedia)](https://en.wikipedia.org/wiki/Binary_search_algorithm#Recursive) Wikipedia is actually not a bad resource to learn about algorithms
   - Software Architecture
+    - [Software Architect Roadmap](https://github.com/justinamiller/SoftwareArchitect)
     - [Software Architecture Patterns](https://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf) - Free O'Reilly Book
     - [Design Patterns (wikipedia)](https://en.wikipedia.org/wiki/Design_Patterns) The original OOP book
     - [The C4 Model for visualizing software architecture](https://c4model.com/) "Context, Containers, Components and Code"
     - [Become a better Software Architect](https://github.com/justinamiller/SoftwareArchitect)
+    - [Software Architecture Guide](https://martinfowler.com/architecture/)
 - Techniques
   - [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
 - Git
@@ -65,8 +67,13 @@ knowledge repository with learning resources, examples, links for various data s
 - CLI
   - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
   - [htop explained](https://peteris.rocks/blog/htop/)
-  - Bas
+  - [tldr](https://tldr.ostera.io/) simplified man pages for cli programs
+  - [explainshell](https://www.explainshell.com/) breaks down and tries to explain shell commands & pipes
+  - Bash
+    - [bash guide](http://mywiki.wooledge.org/BashGuide) learn bash
+    - [bash hackers wiki](https://wiki.bash-hackers.org/)
     - [Conditional constructs](https://www.gnu.org/software/bash/manual/html_node/Conditional-Constructs.html) if statements
+  - [mastering jq](https://codefaster.substack.com/p/mastering-jq-part-1-59c) jq is a command line json parser
 - Tooling
 - [Analysis-tools.dev](https://analysis-tools.dev/) Compare 483+ Analysis tools for all Languages
 
@@ -83,6 +90,7 @@ knowledge repository with learning resources, examples, links for various data s
 - [Machine Learning Roadmap 2020](https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva)
 - [Machine Learning Mindmap](https://github.com/dformoso/machine-learning-mindmap)
 - [Machine Learning Roadmap](https://github.com/mrdbourke/machine-learning-roadmap)
+- [HN Academy](https://yahnd.com/academy/) online courses recommended by hacker
 
 ## Data Science
 
@@ -111,6 +119,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
   - [Precision and Recall](https://www.wikiwand.com/en/Precision_and_recall)
   - [Pattern Recognition and Machine Learning (Code examples)](https://github.com/ctgk/PRML) Python codes implementing algorithms described in Bishop's book "Pattern Recognition and Machine Learning"
+  - [Google AI Eduction](https://ai.google/education/) "learn from ML experts at Google"
 - MOOC
   - [fast.ai](http://www.fast.ai/) - Practical Deep Learning for Coders
   - [Google ML Crash Crouse](https://developers.google.com/machine-learning/crash-course/) - very crash course
@@ -177,6 +186,7 @@ knowledge repository with learning resources, examples, links for various data s
     - [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
     - [TensorFlow for Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/)
     - [TensorFlow Machine Learning Curriculum (official)](https://www.tensorflow.org/resources/learn-ml)
+    - [eat TensorFlow 2 in 30 days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) easily digestible tf 2 book & study plan, includes a lot of the in-depth mechanics
     - [TensorFlow Developer Certificate](https://www.tensorflow.org/certificate)
     - [Generating cooking recipes using TensorFlow and LSTM Recurrent Neural Network: A step-by-step guide](https://github.com/trekhleb/machine-learning-experiments/blob/master/assets/recipes_generation.en.md) This article contains details of how the LSTM model was actually trained on Python using TensorFlow 2 with Keras API.
     - [TensorFlow Roadmap](https://github.com/instillai/TensorFlow-Roadmap#2) 📡 Organized & Useful Resources about Deep Learning with TensorFlow
@@ -358,6 +368,10 @@ knowledge repository with learning resources, examples, links for various data s
 
 ## Backend / Deployment / Distributed Systems
 
+- Resources
+  - [awesome-scalability](https://binhnguyennus.github.io/awesome-scalability/) The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+  - [system design primer](https://github.com/donnemartin/system-design-primer) Learn how to design large-scale systems
+  - [awesome system design](https://github.com/madd86/awesome-system-design) another list
 - Data Serialization
   - [Flexbuffers](https://google.github.io/flatbuffers/flexbuffers.html)
   - [Hackernews Discussion](https://news.ycombinator.com/item?id=23588558)
@@ -368,6 +382,8 @@ knowledge repository with learning resources, examples, links for various data s
   - [Clean build-time secrets](https://github.com/goldbergyoni/nodebestpractices/blob/master/sections/docker/avoid-build-time-secrets.md)
   - [Using multi-stage builds](https://github.com/goldbergyoni/nodebestpractices/blob/master/sections/docker/multi_stage_builds.md)
 - Kubernetes
+  - [Magic Sandbox Platform](https://www.msb.com/) Kubernetes Bootcamp & Learning Platform
+  - [Katacoda](https://www.katacoda.com/courses/kubernetes) learn k8s interactively in the browser
   - [10 most common mistakes using kubernetes](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
   - [Common mistakes using Kubernetes (hackernews)](https://news.ycombinator.com/item?id=23211325)
   - [A gentle Introduction to Kubernetes](https://medium.com/faun/a-gentle-introduction-to-kubernetes-4961e443ba26)
@@ -384,6 +400,8 @@ knowledge repository with learning resources, examples, links for various data s
   - [nginx config generator ui](https://www.digitalocean.com/community/tools/nginx)
 - Caching / In-Memory DB
   - [KeyDB](https://docs.keydb.dev/blog/2019/10/07/blog-post/) - Multithreaded Redis fork ("5 times faster")
+- Loggin & Monitoring
+  - [Prometheus Basics](https://github.com/yolossn/Prometheus-Basics)
 - RESTful APIs
   - Tooling
     - [postwoman](https://github.com/liyasthomas/postwoman) postman alternative
@@ -438,6 +456,12 @@ knowledge repository with learning resources, examples, links for various data s
   - [pytest-postgresql 2.4.0 (pypi)](https://pypi.org/project/pytest-postgresql/)
   - [Database testing in python, postgresql (stackoverflow)](https://stackoverflow.com/questions/2723406/database-testing-in-python-postgresql)
   - [Databases (Full Stack Python)](https://www.fullstackpython.com/databases.html)
+    - Database DevOps
+      - [Roundhouse](https://github.com/chucknorris/roundhouse) Database migration tool using version control
+      - [Flyway](https://flywaydb.org/) database version control
+      - [Redgat](https://www.red-gate.com/) Database DevOps Enterprise solution ($$)
+      - [Alembic](https://alembic.sqlalchemy.org/en/latest/) lightweight db migration tool for python sqlalchemy
+      - [pyscopg](https://www.psycopg.org/) postgresql driver for python
 - Telethon (Telegram API Wrapper)
   - [Telethon API Documentation](https://lonamiwebs.github.io/Telethon/)
   - [Telegram API Introduction](https://towardsdatascience.com/introduction-to-the-telegram-api-b0cd220dbed2)
@@ -445,6 +469,13 @@ knowledge repository with learning resources, examples, links for various data s
 
 ## JavaScript
 
+- Learn
+  - [ECMAScript 2020 Language Specification](https://www.ecma-international.org/publications/standards/Ecma-262.htm) official docs for the newest js iteration
+  - [Eloquent JavaScript](https://eloquentjavascript.net/) highly recommended js book
+  - [JavaScript for impatient programmers (ES2020 edition)]
+  - [you don't know js](https://github.com/getify/You-Dont-Know-JS) deep-dive into js core mechanisms
+  - [Exploring JS](https://exploringjs.com) couple js books which are highly recommended
+  - [Build your own React](https://pomb.us/build-your-own-react/) Project to build a react-clone from scratch
 - Algorithms and Data Structures
   - [All algorithms implemented in js](https://github.com/trekhleb/javascript-algorithms)
 - d3.js
