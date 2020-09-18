@@ -39,7 +39,7 @@ knowledge repository with learning resources, examples, links for various data s
 - [Machine Learning Roadmap 2020](https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva)
 - [Machine Learning Mindmap](https://github.com/dformoso/machine-learning-mindmap)
 - [Machine Learning Roadmap](https://github.com/mrdbourke/machine-learning-roadmap)
-- [HN Academy](https://yahnd.com/academy/) online courses recommended by hacker
+- [HN Academy](https://yahnd.com/academy/) online courses recommended by hacker news community
 
 ## Data Science
 
@@ -433,10 +433,11 @@ knowledge repository with learning resources, examples, links for various data s
       - [Swagger and polymorphic type handling with Jackson](http://yysource.com/2016/05/swagger-and-polymorphic-type-handling-with-jackson/)
       - [Looking for a good example of polymoprrhic serialization/deserialization using jackson](https://stackoverflow.com/questions/17135166/looking-for-a-good-example-of-polymorphic-serialization-deserialization-using-ja/26720380#26720380)
 - JavaScript
+  - [State of JS](https://stateofjs.com/) collecting data from over 20,000 developers to identify current and upcoming trends.
   - Learn
     - [ECMAScript 2020 Language Specification](https://www.ecma-international.org/publications/standards/Ecma-262.htm) official docs for the newest js iteration
     - [Eloquent JavaScript](https://eloquentjavascript.net/) highly recommended js book
-    - [JavaScript for impatient programmers (ES2020 edition)]
+    - [JavaScript for impatient programmers (ES2020 edition)](https://exploringjs.com/impatient-js/)
     - [you don't know js](https://github.com/getify/You-Dont-Know-JS) deep-dive into js core mechanisms
     - [Exploring JS](https://exploringjs.com) couple js books which are highly recommended
     - [Build your own React](https://pomb.us/build-your-own-react/) Project to build a react-clone from scratch
@@ -463,7 +464,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [Flexbuffers](https://google.github.io/flatbuffers/flexbuffers.html)
   - [Hackernews Discussion](https://news.ycombinator.com/item?id=23588558)
   - Protobuf
-    - [Apache Arrow Flight](https://arrow.apache.org/blog/2019/10/13/introducing-arrow-flight/) faster gRPC implementation
+    - [Apache Arrow Flight](https://arrow.apache.org/blog/2019/10/13/introducing-arrow-flight/) faster(?) gRPC alternative
 - Docker
   - [Dockerfile Linting](https://github.com/goldbergyoni/nodebestpractices/blob/master/sections/docker/lint-dockerfile.md)
   - [Clean build-time secrets](https://github.com/goldbergyoni/nodebestpractices/blob/master/sections/docker/avoid-build-time-secrets.md)
