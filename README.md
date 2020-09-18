@@ -6,78 +6,27 @@ knowledge repository with learning resources, examples, links for various data s
 
 - [Knowledge Repository](#knowledge-repository)
   - [Contents](#contents)
-  - [General Programming](#general-programming)
-  - [Meta-Lists](#meta-lists)
+  - [Other Lists & Study Guides](#other-lists--study-guides)
   - [Data Science](#data-science)
     - [Reading](#reading)
     - [Machine Learning Theory](#machine-learning-theory)
     - [Python for Data Science (by Framework)](#python-for-data-science-by-framework)
     - [Python for Data Science (by Topic)](#python-for-data-science-by-topic)
     - [Data Science Deployment / Production](#data-science-deployment--production)
-    - [Tools](#tools)
     - [R](#r)
-  - [Big Data](#big-data)
-  - [Frontend](#frontend)
-  - [Backend / Deployment / Distributed Systems](#backend--deployment--distributed-systems)
-  - [Python (general python programming & non-datascience)](#python-general-python-programming--non-datascience)
-  - [JavaScript](#javascript)
-  - [Rust](#rust)
-  - [Others](#others)
+  - [Software Development](#software-development)
+    - [In General](#in-general)
+    - [Python (non-datascience)](#python-non-datascience)
+    - [Rust](#rust)
+    - [Others](#others)
+  - [Systems Design](#systems-design)
+    - [Big Data](#big-data)
+    - [Backend / Deployment / Distributed Systems](#backend--deployment--distributed-systems)
+  - [Web Development](#web-development)
   - [Reading List](#reading-list)
   - [Read Archive](#read-archive)
 
-## General Programming
-
-- [Learnanything](https://learn-anything.xyz/)
-- [learnXinYminutes](https://learnxinyminutes.com/)
-- [devhints](https://devhints.io/)
-- [Learn by example: Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing)
-- Components
-  - [What is a Lambda Function?](https://stackoverflow.com/questions/16501/what-is-a-lambda-function)
-  - [An Intro to Compilers](https://nicoleorchard.com/blog/compilers)
-- Knowledge
-  - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-  - [Things every programmer should know](https://github.com/mr-mig/every-programmer-should-know)
-  - [Naming Conventions](https://www.wikiwand.com/en/Naming_convention_(programming))
-  - [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon)
-  - [Computer Science for Engineers](https://blog.robertelder.org/computer-science-for-engineers/)
-  - [Must Read books for Developers without CS Degree (HN)](https://news.ycombinator.com/item?id=22803780)
-  - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
-  - Algorithms and Data Structures (Coding Interviews)
-    - [leet Code](https://leetcode.com/?cong=true)
-    - [hackerrank](https://www.hackerrank.com/)
-    - [Coding Interview University](https://github.com/jwasham/coding-interview-university) multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
-    - [All algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
-    - [All algorithms implemented in js](https://github.com/trekhleb/javascript-algorithms)
-    - [How to learn data structures and algorithms for beginners](https://hackernoon.com/how-to-learn-data-structures-and-algorithms-an-ultimate-guide-for-beginners-jy2532z8)
-    - [Binary Search Algorithm (wikipedia)](https://en.wikipedia.org/wiki/Binary_search_algorithm#Recursive) Wikipedia is actually not a bad resource to learn about algorithms
-  - Software Architecture
-    - [Software Architect Roadmap](https://github.com/justinamiller/SoftwareArchitect)
-    - [Software Architecture Patterns](https://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf) - Free O'Reilly Book
-    - [Design Patterns (wikipedia)](https://en.wikipedia.org/wiki/Design_Patterns) The original OOP book
-    - [The C4 Model for visualizing software architecture](https://c4model.com/) "Context, Containers, Components and Code"
-    - [Become a better Software Architect](https://github.com/justinamiller/SoftwareArchitect)
-    - [Software Architecture Guide](https://martinfowler.com/architecture/)
-- Techniques
-  - [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
-- Git
-  - [Interactive Tutorial](https://try.github.io/)
-- CI/CD
-  - [I am a mediocre Developer](https://dev.to/sobolevn/i-am-a-mediocre-developer--30hn)
-- CLI
-  - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
-  - [htop explained](https://peteris.rocks/blog/htop/)
-  - [tldr](https://tldr.ostera.io/) simplified man pages for cli programs
-  - [explainshell](https://www.explainshell.com/) breaks down and tries to explain shell commands & pipes
-  - Bash
-    - [bash guide](http://mywiki.wooledge.org/BashGuide) learn bash
-    - [bash hackers wiki](https://wiki.bash-hackers.org/)
-    - [Conditional constructs](https://www.gnu.org/software/bash/manual/html_node/Conditional-Constructs.html) if statements
-  - [mastering jq](https://codefaster.substack.com/p/mastering-jq-part-1-59c) jq is a command line json parser
-- Tooling
-- [Analysis-tools.dev](https://analysis-tools.dev/) Compare 483+ Analysis tools for all Languages
-
-## Meta-Lists
+## Other Lists & Study Guides
 
 - [Google Interview University](https://github.com/mhujer/google-interview-university) - Multi-month study plan to becoming a Google software engineer
 - [Dataquest: How to Setup a Data Science Blog](https://www.dataquest.io/blog/how-to-setup-a-data-science-blog/)
@@ -94,14 +43,14 @@ knowledge repository with learning resources, examples, links for various data s
 
 ## Data Science
 
-- [You might want to hire a Data Engineer instead of a Data Scientist](https://www.marcel.is/de/)
-- [7 Steps to mastering SQL for Data Science](http://www.kdnuggets.com/2016/06/seven-steps-mastering-sql-data-science.html)
-- [AI and Deep Learning: 2017 in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/)
-- [Datacamp](https://www.datacamp.com/community/)
-- [How to get into the Top15 of Kaggle with Python](https://www.dataquest.io/blog/kaggle-tutorial/)
-
 ### Reading
 
+- Articles
+  - [You might want to hire a Data Engineer instead of a Data Scientist](https://www.marcel.is/de/)
+  - [7 Steps to mastering SQL for Data Science](http://www.kdnuggets.com/2016/06/seven-steps-mastering-sql-data-science.html)
+  - [AI and Deep Learning: 2017 in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/)
+  - [Datacamp](https://www.datacamp.com/community/)
+  - [How to get into the Top15 of Kaggle with Python](https://www.dataquest.io/blog/kaggle-tutorial/)
 - Blogs/Webpages
   - [Sebastian Raschka](https://sebastianraschka.com/)
   - [Karpathy Blog](http://karpathy.github.io/2015/10/25/selfie/)
@@ -322,93 +271,64 @@ knowledge repository with learning resources, examples, links for various data s
 - Distributed Learning
   - [Ray](https://github.com/ray-project/ray) A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning libr…
 
-### Tools
-
-- Editor / IDE
-  - VIM
-    - [How to use Vim as a Python IDE](http://liuchengxu.org/posts/use-vim-as-a-python-ide/)
-
 ### R
 
 - [Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
 
-## Big Data
+## Software Development
 
-- Hadoop
-  - [Hadoop - The Definitive Guide (O'Reilly)](http://hadoopbook.com/)
-  - [Hadoop starter kit](http://hadoopinrealworld.com/hadoopstarterkit/) - Free Hadoop Cluster (3 nodes)
+### In General
 
-## Frontend
+- [Learnanything](https://learn-anything.xyz/)
+- [learnXinYminutes](https://learnxinyminutes.com/)
+- [devhints](https://devhints.io/)
+- [Learn by example: Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing)
+- Components
+  - [What is a Lambda Function?](https://stackoverflow.com/questions/16501/what-is-a-lambda-function)
+  - [An Intro to Compilers](https://nicoleorchard.com/blog/compilers)
+- Knowledge
+  - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+  - [Things every programmer should know](https://github.com/mr-mig/every-programmer-should-know)
+  - [Naming Conventions](https://www.wikiwand.com/en/Naming_convention_(programming))
+  - [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon)
+  - [Computer Science for Engineers](https://blog.robertelder.org/computer-science-for-engineers/)
+  - [Must Read books for Developers without CS Degree (HN)](https://news.ycombinator.com/item?id=22803780)
+  - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
+  - Algorithms and Data Structures (Coding Interviews)
+    - [leet Code](https://leetcode.com/?cong=true)
+    - [hackerrank](https://www.hackerrank.com/)
+    - [Coding Interview University](https://github.com/jwasham/coding-interview-university) multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
+    - [All algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
+    - [All algorithms implemented in js](https://github.com/trekhleb/javascript-algorithms)
+    - [How to learn data structures and algorithms for beginners](https://hackernoon.com/how-to-learn-data-structures-and-algorithms-an-ultimate-guide-for-beginners-jy2532z8)
+    - [Binary Search Algorithm (wikipedia)](https://en.wikipedia.org/wiki/Binary_search_algorithm#Recursive) Wikipedia is actually not a bad resource to learn about algorithms
+  - Software Architecture
+    - [Software Architect Roadmap](https://github.com/justinamiller/SoftwareArchitect)
+    - [Software Architecture Patterns](https://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf) - Free O'Reilly Book
+    - [Design Patterns (wikipedia)](https://en.wikipedia.org/wiki/Design_Patterns) The original OOP book
+    - [The C4 Model for visualizing software architecture](https://c4model.com/) "Context, Containers, Components and Code"
+    - [Become a better Software Architect](https://github.com/justinamiller/SoftwareArchitect)
+    - [Software Architecture Guide](https://martinfowler.com/architecture/)
+- Techniques
+  - [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
+- Git
+  - [Interactive Tutorial](https://try.github.io/)
+- CI/CD
+  - [I am a mediocre Developer](https://dev.to/sobolevn/i-am-a-mediocre-developer--30hn)
+- CLI
+  - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+  - [htop explained](https://peteris.rocks/blog/htop/)
+  - [tldr](https://tldr.ostera.io/) simplified man pages for cli programs
+  - [explainshell](https://www.explainshell.com/) breaks down and tries to explain shell commands & pipes
+  - Bash
+    - [bash guide](http://mywiki.wooledge.org/BashGuide) learn bash
+    - [bash hackers wiki](https://wiki.bash-hackers.org/)
+    - [Conditional constructs](https://www.gnu.org/software/bash/manual/html_node/Conditional-Constructs.html) if statements
+  - [mastering jq](https://codefaster.substack.com/p/mastering-jq-part-1-59c) jq is a command line json parser
+- Tooling
+  - [Analysis-tools.dev](https://analysis-tools.dev/) Compare 483+ Analysis tools for all Languages
 
-- [Chrome Dev Tools: Overview](https://developer.chrome.com/devtools)
-- [MDN](https://developer.mozilla.org/en-US/)
-- [QuickDBD](https://www.quickdatabasediagrams.com/)
-- [JSFiddle](https://jsfiddle.net/)
-- [What the Heck is the Event Loop Anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-- Browser Support
-  - [caniuse.com](https://caniuse.com/#search=let)
-- CSS
-  - [BEM](https://smacss.com/book/) - Block Element Modifier Convention
-  - [SMACSS](https://smacss.com/book/) - Scalable and Modular Architecture for CSS Convention
-  - [css-grid](https://drafts.csswg.org/css-grid/) - css grid specification
-- UI
-  - [Adobe Color](https://color.adobe.com/de/create/color-wheel/)
-- UX
-  - [What is User Experience Design?](https://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/) - Overview, Tools, and Resources
-  - [Usability 101](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)
-  - Testing
-    - [No-Code Regression Tests](https://reflect.run/)
-- Frameworks
-  - [Bootstrap](http://getbootstrap.com/)
-  - [Foundation](http://foundation.zurb.com/)
-- Get Inspired
-  - [Dribbble](https://dribbble.com/)
-  - [Behance](https://www.behance.net/)
-  - [awesome-inspire](https://github.com/NoahBuscher/Inspire)
-
-## Backend / Deployment / Distributed Systems
-
-- Resources
-  - [awesome-scalability](https://binhnguyennus.github.io/awesome-scalability/) The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-  - [system design primer](https://github.com/donnemartin/system-design-primer) Learn how to design large-scale systems
-  - [awesome system design](https://github.com/madd86/awesome-system-design) another list
-- Data Serialization
-  - [Flexbuffers](https://google.github.io/flatbuffers/flexbuffers.html)
-  - [Hackernews Discussion](https://news.ycombinator.com/item?id=23588558)
-  - Protobuf
-    - [Apache Arrow Flight](https://arrow.apache.org/blog/2019/10/13/introducing-arrow-flight/) faster gRPC implementation
-- Docker
-  - [Dockerfile Linting](https://github.com/goldbergyoni/nodebestpractices/blob/master/sections/docker/lint-dockerfile.md)
-  - [Clean build-time secrets](https://github.com/goldbergyoni/nodebestpractices/blob/master/sections/docker/avoid-build-time-secrets.md)
-  - [Using multi-stage builds](https://github.com/goldbergyoni/nodebestpractices/blob/master/sections/docker/multi_stage_builds.md)
-- Kubernetes
-  - [Magic Sandbox Platform](https://www.msb.com/) Kubernetes Bootcamp & Learning Platform
-  - [Katacoda](https://www.katacoda.com/courses/kubernetes) learn k8s interactively in the browser
-  - [10 most common mistakes using kubernetes](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
-  - [Common mistakes using Kubernetes (hackernews)](https://news.ycombinator.com/item?id=23211325)
-  - [A gentle Introduction to Kubernetes](https://medium.com/faun/a-gentle-introduction-to-kubernetes-4961e443ba26)
-  - [Kubernetes YAML Generator](https://k8syaml.com/)
-  - [Pulumi - Kubernetes YAML SDK / Bindings for ts, python, go, ...](https://www.pulumi.com/kubernetes/)
-  - [Validating Kubernetes YAML for best practice and policies](https://learnk8s.io/validating-kubernetes-yaml)
-  - Workflows / Pipelines / Streaming / Message Systems
-    - [Apache Airflow with Kubernetes Executor and MiniKube](https://marclamberti.com/blog/airflow-kubernetes-executor/#Introducing_Apache_Airflow_with_Kubernetes_Executor)
-    - KEDA
-      - [KEDA jobs with Azure Store Queues](https://github.com/tomconte/sample-keda-queue-jobs)
-    - Celery
-      - [Celery + Kubernetes](https://hackernoon.com/https-medium-com-talperetz24-scaling-effectively-when-kubernetes-met-celery-e6abd7ce4fed)
-- nginx
-  - [nginx config generator ui](https://www.digitalocean.com/community/tools/nginx)
-- Caching / In-Memory DB
-  - [KeyDB](https://docs.keydb.dev/blog/2019/10/07/blog-post/) - Multithreaded Redis fork ("5 times faster")
-- Loggin & Monitoring
-  - [Prometheus Basics](https://github.com/yolossn/Prometheus-Basics)
-- RESTful APIs
-  - Tooling
-    - [postwoman](https://github.com/liyasthomas/postwoman) postman alternative
-- Video Streaming
-  - [Building a media streaming server using go and hls protocol](https://hackernoon.com/building-a-media-streaming-server-using-go-and-hls-protocol-j85h3wem)
-
-## Python (general python programming & non-datascience)
+### Python (non-datascience)
 
 - Courses / Books
   - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/) - opinionated guide
@@ -467,21 +387,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [Telegram API Introduction](https://towardsdatascience.com/introduction-to-the-telegram-api-b0cd220dbed2)
   - [How to Create and Deploy a Telegram Bot](https://djangostars.com/blog/how-to-create-and-deploy-a-telegram-bot/)
 
-## JavaScript
-
-- Learn
-  - [ECMAScript 2020 Language Specification](https://www.ecma-international.org/publications/standards/Ecma-262.htm) official docs for the newest js iteration
-  - [Eloquent JavaScript](https://eloquentjavascript.net/) highly recommended js book
-  - [JavaScript for impatient programmers (ES2020 edition)]
-  - [you don't know js](https://github.com/getify/You-Dont-Know-JS) deep-dive into js core mechanisms
-  - [Exploring JS](https://exploringjs.com) couple js books which are highly recommended
-  - [Build your own React](https://pomb.us/build-your-own-react/) Project to build a react-clone from scratch
-- Algorithms and Data Structures
-  - [All algorithms implemented in js](https://github.com/trekhleb/javascript-algorithms)
-- d3.js
-  - [Hitchhiker's Guide to d3.js](https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a)
-
-## Rust
+### Rust
 
 - Language
   - [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) Official Book
@@ -498,7 +404,7 @@ knowledge repository with learning resources, examples, links for various data s
 - Blog
   - [Scala Developer Journey Into Rust](http://blog.madhukaraphatak.com/rust-scala-part-1/)
 
-## Others
+### Others
 
 - C/C++
   - Learning the Language
@@ -526,6 +432,96 @@ knowledge repository with learning resources, examples, links for various data s
     - Jackson
       - [Swagger and polymorphic type handling with Jackson](http://yysource.com/2016/05/swagger-and-polymorphic-type-handling-with-jackson/)
       - [Looking for a good example of polymoprrhic serialization/deserialization using jackson](https://stackoverflow.com/questions/17135166/looking-for-a-good-example-of-polymorphic-serialization-deserialization-using-ja/26720380#26720380)
+- JavaScript
+  - Learn
+    - [ECMAScript 2020 Language Specification](https://www.ecma-international.org/publications/standards/Ecma-262.htm) official docs for the newest js iteration
+    - [Eloquent JavaScript](https://eloquentjavascript.net/) highly recommended js book
+    - [JavaScript for impatient programmers (ES2020 edition)]
+    - [you don't know js](https://github.com/getify/You-Dont-Know-JS) deep-dive into js core mechanisms
+    - [Exploring JS](https://exploringjs.com) couple js books which are highly recommended
+    - [Build your own React](https://pomb.us/build-your-own-react/) Project to build a react-clone from scratch
+  - Algorithms and Data Structures
+    - [All algorithms implemented in js](https://github.com/trekhleb/javascript-algorithms)
+  - d3.js
+    - [Hitchhiker's Guide to d3.js](https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a)
+
+## Systems Design
+
+### Big Data
+
+- Hadoop
+  - [Hadoop - The Definitive Guide (O'Reilly)](http://hadoopbook.com/)
+  - [Hadoop starter kit](http://hadoopinrealworld.com/hadoopstarterkit/) - Free Hadoop Cluster (3 nodes)
+
+### Backend / Deployment / Distributed Systems
+
+- Resources
+  - [awesome-scalability](https://binhnguyennus.github.io/awesome-scalability/) The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+  - [system design primer](https://github.com/donnemartin/system-design-primer) Learn how to design large-scale systems
+  - [awesome system design](https://github.com/madd86/awesome-system-design) another list
+- Data Serialization
+  - [Flexbuffers](https://google.github.io/flatbuffers/flexbuffers.html)
+  - [Hackernews Discussion](https://news.ycombinator.com/item?id=23588558)
+  - Protobuf
+    - [Apache Arrow Flight](https://arrow.apache.org/blog/2019/10/13/introducing-arrow-flight/) faster gRPC implementation
+- Docker
+  - [Dockerfile Linting](https://github.com/goldbergyoni/nodebestpractices/blob/master/sections/docker/lint-dockerfile.md)
+  - [Clean build-time secrets](https://github.com/goldbergyoni/nodebestpractices/blob/master/sections/docker/avoid-build-time-secrets.md)
+  - [Using multi-stage builds](https://github.com/goldbergyoni/nodebestpractices/blob/master/sections/docker/multi_stage_builds.md)
+- Kubernetes
+  - [Magic Sandbox Platform](https://www.msb.com/) Kubernetes Bootcamp & Learning Platform
+  - [Katacoda](https://www.katacoda.com/courses/kubernetes) learn k8s interactively in the browser
+  - [10 most common mistakes using kubernetes](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
+  - [Common mistakes using Kubernetes (hackernews)](https://news.ycombinator.com/item?id=23211325)
+  - [A gentle Introduction to Kubernetes](https://medium.com/faun/a-gentle-introduction-to-kubernetes-4961e443ba26)
+  - [Kubernetes YAML Generator](https://k8syaml.com/)
+  - [Pulumi - Kubernetes YAML SDK / Bindings for ts, python, go, ...](https://www.pulumi.com/kubernetes/)
+  - [Validating Kubernetes YAML for best practice and policies](https://learnk8s.io/validating-kubernetes-yaml)
+  - Workflows / Pipelines / Streaming / Message Systems
+    - [Apache Airflow with Kubernetes Executor and MiniKube](https://marclamberti.com/blog/airflow-kubernetes-executor/#Introducing_Apache_Airflow_with_Kubernetes_Executor)
+    - KEDA
+      - [KEDA jobs with Azure Store Queues](https://github.com/tomconte/sample-keda-queue-jobs)
+    - Celery
+      - [Celery + Kubernetes](https://hackernoon.com/https-medium-com-talperetz24-scaling-effectively-when-kubernetes-met-celery-e6abd7ce4fed)
+- nginx
+  - [nginx config generator ui](https://www.digitalocean.com/community/tools/nginx)
+- Caching / In-Memory DB
+  - [KeyDB](https://docs.keydb.dev/blog/2019/10/07/blog-post/) - Multithreaded Redis fork ("5 times faster")
+- Loggin & Monitoring
+  - [Prometheus Basics](https://github.com/yolossn/Prometheus-Basics)
+- RESTful APIs
+  - Tooling
+    - [postwoman](https://github.com/liyasthomas/postwoman) postman alternative
+- Video Streaming
+  - [Building a media streaming server using go and hls protocol](https://hackernoon.com/building-a-media-streaming-server-using-go-and-hls-protocol-j85h3wem)
+
+## Web Development
+
+- [Chrome Dev Tools: Overview](https://developer.chrome.com/devtools)
+- [MDN](https://developer.mozilla.org/en-US/)
+- [QuickDBD](https://www.quickdatabasediagrams.com/)
+- [JSFiddle](https://jsfiddle.net/)
+- [What the Heck is the Event Loop Anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- Browser Support
+  - [caniuse.com](https://caniuse.com/#search=let)
+- CSS
+  - [BEM](https://smacss.com/book/) - Block Element Modifier Convention
+  - [SMACSS](https://smacss.com/book/) - Scalable and Modular Architecture for CSS Convention
+  - [css-grid](https://drafts.csswg.org/css-grid/) - css grid specification
+- UI
+  - [Adobe Color](https://color.adobe.com/de/create/color-wheel/)
+- UX
+  - [What is User Experience Design?](https://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/) - Overview, Tools, and Resources
+  - [Usability 101](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)
+  - Testing
+    - [No-Code Regression Tests](https://reflect.run/)
+- Frameworks
+  - [Bootstrap](http://getbootstrap.com/)
+  - [Foundation](http://foundation.zurb.com/)
+- Get Inspired
+  - [Dribbble](https://dribbble.com/)
+  - [Behance](https://www.behance.net/)
+  - [awesome-inspire](https://github.com/NoahBuscher/Inspire)
 
 ## Reading List
 
