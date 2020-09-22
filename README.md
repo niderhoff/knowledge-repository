@@ -345,6 +345,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [The Little book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
   - [pytudes](https://github.com/norvig/pytudes) Python programs, usually short, for perfecting particular programming skills. by *Peter Norvig*
   - [pysanity](https://github.com/rednafi/pysanity/) Opinionated Coding Guidelines/philosophy
+  - [How to NEVER use lambdas](https://gist.github.com/MineRobber9000/19c331a9f5d8e994a4ed251f0ffa1e98) An inneficient and yet educatonal [sic] guide to the proper misuse of the lambda construct in Python 3.x [DO NOT USE ANY OF THIS EVER]
 - Basics
   - [Using Config files](https://martin-thoma.com/configuration-files-in-python/) - YAML, JSON, etc.
   - [Number Formatting](https://mkaz.blog/code/python-string-format-cookbook/)
@@ -398,7 +399,9 @@ knowledge repository with learning resources, examples, links for various data s
   - [Hands-On Concurrency with Rust: Confidently build memory-safe, parallel, and efficient software in Rust](https://www.amazon.com/dp/1788399978/ref=as_li_ss_il?tag=book0359-20&ie=UTF8) - Book
   - [Hands-On Data Structures and Algorithms with Rust](https://www.amazon.com/dp/178899552X/ref=as_li_ss_il?tag=book0359-20&ie=UTF8) - Book
   - [Programming Rust: Fast, Safe Systems Development](https://www.goodreads.com/book/show/25550614-programming-rust) - Book
+  - [Learning Rust with entirely too many linked lists](https://rust-unofficial.github.io/too-many-lists/) rust intricacies and idiomatic rust
   - [rustlings](https://github.com/rust-lang/rustlings) Small exercises to get you used to reading and writing Rust code!
+  - [tl;dr Rust](https://christine.website/blog/TLDR-rust-2020-09-19) quick high-level overview of patterns in Rust (with comparision to Go)
 - Web-Frameworks
   - [Choosing a Rust Web Framework: 2020 Edition](https://www.lpalmieri.com/posts/2020-07-04-choosing-a-rust-web-framework-2020-edition/)
 - Blog
