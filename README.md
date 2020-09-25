@@ -402,6 +402,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [Learning Rust with entirely too many linked lists](https://rust-unofficial.github.io/too-many-lists/) rust intricacies and idiomatic rust
   - [rustlings](https://github.com/rust-lang/rustlings) Small exercises to get you used to reading and writing Rust code!
   - [tl;dr Rust](https://christine.website/blog/TLDR-rust-2020-09-19) quick high-level overview of patterns in Rust (with comparision to Go)
+  - [OMG WTF RS](https://web.archive.org/web/20200923111823/https://ferrous-systems.com/blog/omg-wtf-rs-resources-to-help-you-get-started-with-rust/) helpful rust resources
 - Web-Frameworks
   - [Choosing a Rust Web Framework: 2020 Edition](https://www.lpalmieri.com/posts/2020-07-04-choosing-a-rust-web-framework-2020-edition/)
 - Blog
@@ -416,6 +417,8 @@ knowledge repository with learning resources, examples, links for various data s
     - [Modern C](https://modernc.gforge.inria.fr/)
     - [Learn C in Y minutes](https://learnxinyminutes.com/docs/c/)
     - [Learn C++ in Y minutes](https://learnxinyminutes.com/docs/c++/)
+  - Algorithms & Data Structures
+    - [Algorithms implemented in C++](https://github.com/priyankchheda/algorithms)
   - Safety
     - [awesome-saffety-critical](https://github.com/stanislaw/awesome-safety-critical/blob/master/README.md#coding-guidelines) list of resources about programming practices for writing safety-critical software
   - Testing
