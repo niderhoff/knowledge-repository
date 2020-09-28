@@ -301,6 +301,7 @@ knowledge repository with learning resources, examples, links for various data s
     - [All algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
     - [All algorithms implemented in js](https://github.com/trekhleb/javascript-algorithms)
     - [How to learn data structures and algorithms for beginners](https://hackernoon.com/how-to-learn-data-structures-and-algorithms-an-ultimate-guide-for-beginners-jy2532z8)
+    - [visualgo](https://visualgo.net/) algorithms visualized
     - [Binary Search Algorithm (wikipedia)](https://en.wikipedia.org/wiki/Binary_search_algorithm#Recursive) Wikipedia is actually not a bad resource to learn about algorithms
   - Software Architecture
     - [Software Architect Roadmap](https://github.com/justinamiller/SoftwareArchitect)
