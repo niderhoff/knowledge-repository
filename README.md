@@ -292,16 +292,29 @@ knowledge repository with learning resources, examples, links for various data s
   - [Naming Conventions](https://www.wikiwand.com/en/Naming_convention_(programming))
   - [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon)
   - [Computer Science for Engineers](https://blog.robertelder.org/computer-science-for-engineers/)
-  - [Must Read books for Developers without CS Degree (HN)](https://news.ycombinator.com/item?id=22803780)
+  - Books
+    - [Must Read books for Developers without CS Degree (HN)](https://news.ycombinator.com/item?id=22803780)
+    - [The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/) "Few programmers have read it from cover to cover, but it remains perhaps the ultimate and authoritative in-depth reference on the subject."
   - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
-  - Algorithms and Data Structures (Coding Interviews)
-    - [leet Code](https://leetcode.com/?cong=true)
-    - [hackerrank](https://www.hackerrank.com/)
-    - [Coding Interview University](https://github.com/jwasham/coding-interview-university) multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
-    - [All algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
-    - [All algorithms implemented in js](https://github.com/trekhleb/javascript-algorithms)
-    - [How to learn data structures and algorithms for beginners](https://hackernoon.com/how-to-learn-data-structures-and-algorithms-an-ultimate-guide-for-beginners-jy2532z8)
-    - [Binary Search Algorithm (wikipedia)](https://en.wikipedia.org/wiki/Binary_search_algorithm#Recursive) Wikipedia is actually not a bad resource to learn about algorithms
+  - Algorithms and Data Structures, Coding Interviews
+    - Study Gudies
+      - [geeksforgeeks](https://www.geeksforgeeks.org/data-structures/) theory, examples, practices, study guides
+      - [Coding Interview University](https://github.com/jwasham/coding-interview-university) multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
+      - [All algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
+      - [All algorithms implemented in js](https://github.com/trekhleb/javascript-algorithms)
+    - Visualizations
+      - [visualgo](https://visualgo.net/)
+      - [Algorithm visualizer](https://algorithm-visualizer.org/)
+      - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+    - Books
+      - [Algorithms in C](https://www.amazon.com/Algorithms-Parts-1-5-Bundle-Fundamentals/dp/0201756080/) 5 part book
+      - [Data Structures and Abstractions with Java (4th edition)](https://www.amazon.com/Data-Structures-Abstractions-Java-4th/dp/0133744051) book
+      - [Problem solving with algorithms and adata structures using python (2nd ed.)](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574)
+    - Competitive Programming
+      - [leet Code](https://leetcode.com/?cong=true)
+      - [hackerrank](https://www.hackerrank.com/)
+    - Advanced
+      - [Introduction to Algorithms (3rd ed.)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/) "The section on algorithmic reasoning is awesome, and it also offers more details on complexity analysis and mathematical tools."
   - Software Architecture
     - [The Architecture of Open Source Applications](http://aosabook.org/en/index.html) open source software architects talk about their projects
     - [Software Architect Roadmap](https://github.com/justinamiller/SoftwareArchitect)
