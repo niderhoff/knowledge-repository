@@ -303,6 +303,7 @@ knowledge repository with learning resources, examples, links for various data s
     - [How to learn data structures and algorithms for beginners](https://hackernoon.com/how-to-learn-data-structures-and-algorithms-an-ultimate-guide-for-beginners-jy2532z8)
     - [Binary Search Algorithm (wikipedia)](https://en.wikipedia.org/wiki/Binary_search_algorithm#Recursive) Wikipedia is actually not a bad resource to learn about algorithms
   - Software Architecture
+    - [The Architecture of Open Source Applications](http://aosabook.org/en/index.html) open source software architects talk about their projects
     - [Software Architect Roadmap](https://github.com/justinamiller/SoftwareArchitect)
     - [Software Architecture Patterns](https://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf) - Free O'Reilly Book
     - [Design Patterns (wikipedia)](https://en.wikipedia.org/wiki/Design_Patterns) The original OOP book
