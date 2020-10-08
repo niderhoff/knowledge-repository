@@ -417,6 +417,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [rustlings](https://github.com/rust-lang/rustlings) Small exercises to get you used to reading and writing Rust code!
   - [tl;dr Rust](https://christine.website/blog/TLDR-rust-2020-09-19) quick high-level overview of patterns in Rust (with comparision to Go)
   - [OMG WTF RS](https://web.archive.org/web/20200923111823/https://ferrous-systems.com/blog/omg-wtf-rs-resources-to-help-you-get-started-with-rust/) helpful rust resources
+  - [CS110L: Safety in Systems Programming](https://reberhardt.com/cs110l/spring-2020/) Stanford undergrad Course
 - Web-Frameworks
   - [Choosing a Rust Web Framework: 2020 Edition](https://www.lpalmieri.com/posts/2020-07-04-choosing-a-rust-web-framework-2020-edition/)
 - Blog
