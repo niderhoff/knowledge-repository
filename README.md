@@ -412,7 +412,7 @@ knowledge repository with learning resources, examples, links for various data s
   - [easy rust](https://github.com/Dhghomon/easy_rust)
   - [Hands-On Concurrency with Rust: Confidently build memory-safe, parallel, and efficient software in Rust](https://www.amazon.com/dp/1788399978/ref=as_li_ss_il?tag=book0359-20&ie=UTF8) - Book
   - [Hands-On Data Structures and Algorithms with Rust](https://www.amazon.com/dp/178899552X/ref=as_li_ss_il?tag=book0359-20&ie=UTF8) - Book
-  - [Programming Rust: Fast, Safe Systems Development](https://www.goodreads.com/book/show/25550614-programming-rust) - Book
+  - [Programming Rust: Fast, Safe Systems Development](https://www.goodreads.com/book/show/25550614-programming-rust) - ⭐ Supposedly the best book for actual rust programming for experienced software developers
   - [Learning Rust with entirely too many linked lists](https://rust-unofficial.github.io/too-many-lists/) rust intricacies and idiomatic rust
   - [rustlings](https://github.com/rust-lang/rustlings) Small exercises to get you used to reading and writing Rust code!
   - [tl;dr Rust](https://christine.website/blog/TLDR-rust-2020-09-19) quick high-level overview of patterns in Rust (with comparision to Go)
@@ -432,6 +432,7 @@ knowledge repository with learning resources, examples, links for various data s
     - [Modern C](https://modernc.gforge.inria.fr/)
     - [Learn C in Y minutes](https://learnxinyminutes.com/docs/c/)
     - [Learn C++ in Y minutes](https://learnxinyminutes.com/docs/c++/)
+    - [Learn C++ by Building a crossword puzzle](https://www.youtube.com/playlist?list=PLg4AoophFZWZ7Llifowo-1WGMVICq-mfw) youtube tutorial series
   - Algorithms & Data Structures
     - [Algorithms implemented in C++](https://github.com/priyankchheda/algorithms)
   - Safety
