@@ -444,6 +444,11 @@ knowledge repository with learning resources, examples, links for various data s
     - [xeus cling](https://github.com/jupyter-xeus/xeus-cling) jupyter c++ kernel
 - Go
   - [Learn Go by porting a medium-sized web backend from Python](http://benhoyt.com/writings/learning-go/)
+  - [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
+  - [Go by eample](https://gobyexample.com/)
+  - [Using Go modules](https://blog.golang.org/using-go-modules)
+  - [1000+ Hand-Crafted Go Examples, Exercises, and Quizzes](https://github.com/inancgumus/learngo)
+  - [How I write Go HTTP Services after Seven Years](http://archive.today/G0JDY)
 - Haskell
   - [Learn You a Haskell for Great Good](http://learnyouahaskell.com/)
   - [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
