@@ -57,6 +57,8 @@ knowledge repository with learning resources, examples, links for various data s
   - [Francois Chollet (keras) Blog](https://blog.keras.io/index.html)
   - [Dataquest](https://www.dataquest.io/blog/)
   - [wildml.com](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/)
+- Books
+  - [Everyday Data Science](https://andrewnc.github.io/blog/everyday_data_science.html)
 - Papers
   - [Papers With Code](https://paperswithcode.com/sota) - Browse State-of-the-Art Machine Learning Papers
 
@@ -350,6 +352,8 @@ knowledge repository with learning resources, examples, links for various data s
   - [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
   - [Fluent Python](https://github.com/fluentpython)
   - [Effective Python](https://effectivepython.com/)
+  - [Python Programming and Numerical Methods: A Guide for Engineers and Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
+  - [Advanced Python Courses](https://www.dabeaz.com/courses.html)
 - Language Features, Paradigms, Abstractions, Advance Python
   - [Python 3 Patterns Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Singleton.html)
   - [Functional Programming in Python](https://www.oreilly.com/programming/free/files/functional-programming-python.pdf)
@@ -374,11 +378,14 @@ knowledge repository with learning resources, examples, links for various data s
     - [Our Journey to type checking..](https://dropbox.tech/application/our-journey-to-type-checking-4-million-lines-of-python) - Dropbox Blog
     - [Python Type Hints](https://kunigami.blog/2019/12/26/python-type-hints/)
     - [Monkeytype](https://github.com/instagram/MonkeyType) generates type hints by collecting runtime types
-- Async
+- Async / Concurrency
   - [Async Python is not faster](http://calpaterson.com/async-python-is-not-faster.html) - HTTP server benchmarks
   - [Sync vs. Async Python: What is the Difference?](https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference)
   - [Asynco IO in Python: A Complete Walkthrough](https://realpython.com/async-io-python/)
   - [Concurrency Python discussion (hackernews)](https://news.ycombinator.com/item?id=23289563)
+  - [Python concurrency - The tricky bits](https://archive.ph/RQSfH) - An exploration of threads, processes, and coroutines in Python
+- CLI
+  - [Bulding Rich Terminal Dashboards](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/)
 - Django
   - [GraphQL in Django](https://medium.com/swlh/graphql-in-django-an-overview-51d27e7fceb3)
   - [How to manage concurrency in Django Models](https://medium.com/@hakibenita/how-to-manage-concurrency-in-django-models-b240fed4ee2)
@@ -401,6 +408,8 @@ knowledge repository with learning resources, examples, links for various data s
   - [Telethon API Documentation](https://lonamiwebs.github.io/Telethon/)
   - [Telegram API Introduction](https://towardsdatascience.com/introduction-to-the-telegram-api-b0cd220dbed2)
   - [How to Create and Deploy a Telegram Bot](https://djangostars.com/blog/how-to-create-and-deploy-a-telegram-bot/)
+- Webscraping
+  - [Web Scraping 101 with Python](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
 
 ### Rust
 
@@ -443,6 +452,7 @@ knowledge repository with learning resources, examples, links for various data s
     - [libc](https://westurner.github.io/tools/#libc)
     - [xeus cling](https://github.com/jupyter-xeus/xeus-cling) jupyter c++ kernel
 - Go
+  - [The ecosystem of the Go programming language](https://henvic.dev/posts/go/) - Proper overview of all resources you would need to get into go
   - [Learn Go by porting a medium-sized web backend from Python](http://benhoyt.com/writings/learning-go/)
   - [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
   - [Go by eample](https://gobyexample.com/)
@@ -452,6 +462,7 @@ knowledge repository with learning resources, examples, links for various data s
 - Haskell
   - [Learn You a Haskell for Great Good](http://learnyouahaskell.com/)
   - [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
+  - [Graham Hutton Haskell YT Lecture](https://www.youtube.com/channel/UCBDp7ydYTHi1dh4Gnf3VTPA) - [course link](http://www.cs.nott.ac.uk/~pszgmh/)
 - Java / Scala
   - [Awesome Java](https://github.com/akullpp/awesome-java)
   - [Helsinki MOOC](http://mooc.fi/courses/2013/programming-part-1/)
@@ -468,6 +479,7 @@ knowledge repository with learning resources, examples, links for various data s
     - [you don't know js](https://github.com/getify/You-Dont-Know-JS) deep-dive into js core mechanisms
     - [Exploring JS](https://exploringjs.com) couple js books which are highly recommended
     - [Build your own React](https://pomb.us/build-your-own-react/) Project to build a react-clone from scratch
+    - [Mostly adequate guide to FP](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
   - Algorithms and Data Structures
     - [All algorithms implemented in js](https://github.com/trekhleb/javascript-algorithms)
   - d3.js
