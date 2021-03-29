@@ -453,6 +453,7 @@ knowledge repository with learning resources, examples, links for various data s
     - [xeus cling](https://github.com/jupyter-xeus/xeus-cling) jupyter c++ kernel
 - Go
   - [The ecosystem of the Go programming language](https://henvic.dev/posts/go/) - Proper overview of all resources you would need to get into go
+  - [Practical Go Lessons](https://www.practical-go-lessons.com/) - In depth book about all things go & cs basics
   - [Learn Go by porting a medium-sized web backend from Python](http://benhoyt.com/writings/learning-go/)
   - [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
   - [Go by eample](https://gobyexample.com/)
